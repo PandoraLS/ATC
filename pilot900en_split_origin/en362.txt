@@ -1,0 +1,1 @@
+RNAV approach not available due FMS database. Request VOR approach.

@@ -1,0 +1,1 @@
+Stop ADS-B transmission.

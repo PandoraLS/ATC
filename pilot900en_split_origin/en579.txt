@@ -1,0 +1,1 @@
+Our pitot static heating system has failed. We might have an altitude error.

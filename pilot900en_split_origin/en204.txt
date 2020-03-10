@@ -1,0 +1,1 @@
+Confirm touchdown RVR greater than 350 meters.

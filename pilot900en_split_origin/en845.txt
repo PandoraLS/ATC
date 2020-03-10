@@ -1,0 +1,1 @@
+Request passenger stairs connect immediately after we stop on the runway. We want to disembark passengers as quickly as possible.

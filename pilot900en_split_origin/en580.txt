@@ -1,0 +1,1 @@
+We made the overshoot because of a stall warning, probably caused by a defective angle of attack probe.

@@ -1,0 +1,1 @@
+Report required only at boundary.

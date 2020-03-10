@@ -1,0 +1,1 @@
+Stop squawk transmit ADS-B only.

@@ -1,0 +1,1 @@
+Our ADS-B transmitter appears to be malfunctioning. Terminating further ADS-B transmissions.

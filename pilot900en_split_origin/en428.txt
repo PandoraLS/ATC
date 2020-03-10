@@ -1,0 +1,1 @@
+Radar control is resumed, track direct to BKM VOR and increase speed to Mach number decimal 84.

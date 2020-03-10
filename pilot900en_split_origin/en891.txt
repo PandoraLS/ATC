@@ -1,0 +1,1 @@
+Unable, an immediate right turn might not give us enough terrain clearance. Our turn radius is 4 miles at this speed.

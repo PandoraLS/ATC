@@ -1,0 +1,1 @@
+Engine indicates high EGT at idle power setting. We need to have partial thrust in the descent. Request an early descent.

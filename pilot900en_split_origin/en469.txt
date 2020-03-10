@@ -1,0 +1,1 @@
+Inertial reference system has failed. We are navigating on raw data. Request conventional approach.

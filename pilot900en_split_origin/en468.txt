@@ -1,0 +1,1 @@
+We have a navigation map shift, unable to perform the RNAV approach. Request radar vectors.

@@ -1,0 +1,1 @@
+Confirm current RVR less than 400 meters.

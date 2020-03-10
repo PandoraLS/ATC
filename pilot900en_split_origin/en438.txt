@@ -1,0 +1,1 @@
+Continue CPDLC make position report via CPDLC.

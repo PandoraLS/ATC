@@ -1,0 +1,2700 @@
+Maintaining FL310.
+maintaining flight level three one zero
+
+Descending to FL290.
+descending to flight level two nine zero
+
+Reaching FL190.
+reaching flight level one nine zero
+
+Maintaining FL90 over WXJ.
+maintaining flight level nine zero over whiskey xray juliett
+
+Continue descent to 3000 feet， QNH 1012.
+continue descent to three thousand feet qnh one zero one two
+
+Passing FL180 for FL310.
+passing flight level one eight zero for flight level three one zero
+
+Cleared to enter controlled airspace not above FL100.
+cleared to enter controlled airspace not above flight level one zero zero
+
+Request further climb.
+request further climb
+
+Fly direct to SHA, not below FL180.
+fly direct to sierra hotel alpha not below flight level one eight zero
+
+After passing CGO descend to FL80.
+after passing charlie golf oscar descend to flight level eight zero
+
+Stop descent at FL210.
+stop descent at flight level two one zero
+
+Descending to reach FL150 by WXI.
+descending to reach flight level one five zero by whiskey xray india
+
+Unable to reach FL150 by ZHO due performance.
+unable to reach flight level one five zero by zulu hotel oscar due performance
+
+Climbing to FL290, to be level by 55.
+climbing to flight level two nine zero to be level by five five
+
+Descend at 2000 feet per minute.
+descend at two thousand feet per minute
+
+Climbing at 1000 feet per minute or greater.
+climbing at one thousand feet per minute or greater
+
+When ready, descend to FL210, level at PLT.
+when ready descend to flight level two one zero level at papa lima tango
+
+Right heading 330, descending to 3000 feet, cleared for ILS approach Runway 36R.
+right heading three three zero descending to three thousand feet cleared for ils approach runway three six romeo
+
+Descend to 3000 feet, information P is current.
+descend to three thousand feet information papa is current
+
+Expedite descent to FL180.
+expedite descent to flight level one eight zero
+
+Expedite climb to FL190.
+expedite climb to flight level one nine zero
+
+Climb to FL280 expedite until passing FL180.
+climb to flight level two eight zero expedite until passing flight level one eight zero
+
+Unable to expedite climb due weight.
+unable to expedite climb due weight
+
+Descending immediately to FL200 due traffic.
+descending immediately to flight level two zero zero due traffic
+
+When ready, climb to FL280, report leaving FL200.
+when ready climb to flight level two eight zero report leaving flight level two zero zero
+
+Leaving FL200, climbing to FL280.
+leaving flight level two zero zero climbing to flight level two eight zero
+
+Maintaining own separation and VMC, descending to FL80.
+maintaining own separation and vmc descending to flight level eight zero
+
+Reaching 8000 feet, request further climb.
+reaching eight thousand feet request further climb
+
+Cancel SID, track direct to LLK, climb to and maintain FL110.
+cancel sid track direct to lima lima kilo climb to and maintain flight level one one zero
+
+Experiencing icing condition. Request further descent.
+experiencing icing condition request further descent
+
+Icing condition encountered. Request further climb.
+icing condition encountered request further climb
+
+Experiencing severe turbulence. Request further descent.
+experiencing severe turbulence request further descent
+
+Reduce speed to Mach decimal 76.
+reduce speed to mach decimal seven six
+
+Maintain Mach point 84 or greater.
+maintain mach point eight four or greater
+
+Maintain Mach point 80 or less.
+maintain mach point eight zero or less
+
+Maintain present speed.
+maintain present speed
+
+Maintain 250 knots or greater.
+maintain two five zero knots or greater
+
+Reduce to minimum clean speed.
+reduce to minimum clean speed
+
+Reduce to minimum approach speed.
+reduce to minimum approach speed
+
+Maintain 160 knots until 4 miles final.
+maintain one six zero knots until four miles final
+
+Maintain 160 knots until outer marker.
+maintain one six zero knots until outer marker
+
+Descend to FL120, on speed conversion, 250 knots.
+descend to flight level one two zero on speed conversion two five zero knots
+
+Cancel speed restriction, continue descent to 7000 feet.
+cancel speed restriction continue descent to seven thousand feet
+
+LMN-02 Departure, passing 2500 feet climbing to 9000 feet.
+lima mike november zero two departure passing two thousand five hundred feet climbing to nine thousand feet
+
+Maintaining FL350, cleared to destination, flight planned route.
+maintaining flight level three five zero cleared to destination flight planned route
+
+Request radar vectors for visual approach Runway 22.
+request radar vectors for visual approach runway two two
+
+Request join downwind Runway 31.
+request join downwind runway three one
+
+Request taxi to holding point Runway 13.
+request taxi to holding point runway one three
+
+Request taxi to south maintenance ramp.
+request taxi to south maintenance ramp
+
+Request frequency change.
+request frequency change
+
+15NM to HRB, FL290, tracking to JMU, squawking 6543.
+one five november mike to hotel romeo bravo flight level two nine zero tracking to juliett mike uniform squawking six five four three
+
+Contact Control on 118.9.
+contact control on one one eight decimal nine
+
+Position OBLIK at 0646, maintaining FL310, estimating ZF 0658, WUH next.
+position oscar bravo lima india kilo at zero six four six maintaining flight level three one zero estimating zulu foxtrot zero six five eight whiskey uniform hotel next
+
+Next report at WXA.
+next report at whiskey xray alpha
+
+Omit position reports.
+omit position reports
+
+Omit position reports on this frequency.
+omit position reports on this frequency
+
+Resume position reporting.
+resume position reporting
+
+Delay not determined due runway obstruction.
+delay not determined due runway obstruction
+
+Approach time not determined due weather.
+approach time not determined due weather
+
+Slot time not determined due flow control.
+slot time not determined due flow control
+
+Revised slot time at 56.
+revised slot time at five six
+
+Expect hold at HUR VOR for 10 minutes due traffic.
+expect hold at hotel uniform romeo vor for one zero minutes due traffic
+
+Expected approach time 44.
+expected approach time four four
+
+Revised expected approach time 54.
+revised expected approach time five four
+
+No delay expected.
+no delay expected
+
+Delay not determined, numerous aircraft holding for weather improvement.
+delay not determined numerous aircraft holding for weather improvement
+
+Cleared to exit the hold, fly direct to ML. Contact Approach on 128.35.
+cleared to exit the hold fly direct to mike lima contact approach on one two eight decimal three five
+
+Approach clearance canceled, turn left direct to DA, climb to 4000 feet, hold as published, expect further clearance at time 50.
+approach clearance canceled turn left direct to delta alpha climb to four thousand feet hold as published expect further clearance at time five zero
+
+Ready for approach.
+ready for approach
+
+Request leave the holding pattern.
+request leave the holding pattern
+
+After passing SY VOR, leave the hold on heading 250, cleared for VOR approach Runway 06.
+after passing sierra yankee vor leave the hold on heading two five zero cleared for vor approach runway zero six
+
+Leave JFK VOR heading 210.
+leave juliett foxtrot kilo vor heading two one zero
+
+Cleared to LHR, hold at LHR as published. Maintain 8000 feet. Expect further clearance at 18.
+cleared to lima hotel romeo hold at lima hotel romeo as published maintain eight thousand feet expect further clearance at one eight
+
+Hold south of AMS VOR at 9000 feet, inbound track 270 degrees, left hand pattern, outboundtime 1 minute. Expect further clearance at 46.
+hold south of alpha mike sierra vor at nine thousand feet inbound track two seven zero degrees left hand pattern outboundtime one minute expect further clearance at four six
+
+Cleared to the 180 radial of PER VOR at 15 DME. Hold south, left hand pattern, outboundtime 2 minutes, expect approach clearance at 37.
+cleared to the one eight zero radial of papa echo romeo vor at one five dme hold south left hand pattern outboundtime two minutes expect approach clearance at three seven
+
+Information P received, stand 03, ready to copy ATC clearance.
+information papa received stand zero three ready to copy atc clearance
+
+Gate 26, request clearance to London with information F.
+gate two six request clearance to london with information foxtrot
+
+Cleared to destination, flight planned route, cruising level 330, departure Runway 04, initialaltitude 7000 feet. HZ-01 Departure, squawk 2563, departure frequency 124.35.
+cleared to destination flight planned route cruising level three three zero departure runway zero four initialaltitude seven thousand feet hotel zulu zero one departure squawk two five six three departure frequency one two four decimal three five
+
+Cleared to destination via ZAM, flight planned route, D03 Departure, cruising level 230,squawk 3763.
+cleared to destination via zulu alpha mike flight planned route delta zero three departure cruising level two three zero squawk three seven six three
+
+Cleared to destination via flight planned route, Runway 36R, LKO-01 Departure, initially climbto 4500 feet, cruising level 310, when airborne contact 119.7, squawk 2515.
+cleared to destination via flight planned route runway three six romeo lima kilo oscar zero one departure initially climbto four thousand five hundred feet cruising level three one zero when airborne contact one one nine decimal seven squawk two five one five
+
+Cleared via ZF-01 Departure, initial altitude 5000 feet. Departure frequency 125.9. Cruisinglevel 290, departure Runway 04. Squawk 6563.
+cleared via zulu foxtrot zero one departure initial altitude five thousand feet departure frequency one two five decimal nine cruisinglevel two nine zero departure runway zero four squawk six five six three
+
+Cleared to destination via flight plan route. Departure Runway 36L. HZ-01D Departure. Initialaltitude 5000 feet. Cruising level 330. Departure frequency 119.45, squawk 5667.
+cleared to destination via flight plan route departure runway three six lima hotel zulu zero one delta departure initialaltitude five thousand feet cruising level three three zero departure frequency one one nine decimal four five squawk five six six seven
+
+Recleared to destination via ZF-01 Departure, Runway 36R, rest of clearance unchanged.
+recleared to destination via zulu foxtrot zero one departure runway three six romeo rest of clearance unchanged
+
+Recleared to destination via B213, WHA, R343, rest of route unchanged.
+recleared to destination via bravo two one three whiskey hotel alpha romeo three four three rest of route unchanged
+
+Cleared to destination via flight planned route, initial climb to 2700 feet, request level change en-route, departure frequency 120.3, squawk 0722.
+cleared to destination via flight planned route initial climb to two thousand seven hundred feet request level change en route departure frequency one two zero decimal three squawk zero seven two two
+
+Gate15, information C, ready to copy ATC clearance.
+gate one five information charlie ready to copy atc clearance
+
+Cleared to destination, BK02 RNAV Departure, initially 3000 feet, departure frequency 125.4, squawk 3311.
+cleared to destination bravo kilo zero two rnav departure initially three thousand feet departure frequency one two five decimal four squawk three three one one
+
+Say again all after 3000 feet.
+say again all after three thousand feet
+
+Say again all before departure frequency.
+say again all before departure frequency
+
+Say again the initial altitude.
+say again the initial altitude
+
+Unable to cross LX FL150 due weight, maintaining FL130.
+unable to cross lima xray flight level one five zero due weight maintaining flight level one three zero
+
+Destination Beijing, request departure information.
+destination beijing request departure information
+
+Bay24, request start-up.
+bay two four request start up
+
+Start up approved, QNH 29.91.
+start up approved qnh two nine decimal nine one
+
+Start up approved, altimeter setting 29.91.
+start up approved altimeter setting two nine decimal nine one
+
+Start up at 35, QNH 997.
+start up at three five qnh nine nine seven
+
+Expect start up at 35, QNH 1030.
+expect start up at three five qnh one zero three zero
+
+Expect departure at 49, start up at own discretion, QNH 1004.
+expect departure at four nine start up at own discretion qnh one zero zero four
+
+Radio check on 118.3.
+radio check on one one eight decimal three
+
+I read you 5.
+i read you five
+
+You are unreadable.
+you are unreadable
+
+Can you speak slower?
+can you speak slower
+
+How do you read?
+how do you read
+
+QNH 997, I say again, QNH 997.
+qnh nine nine seven i say again qnh nine nine seven
+
+Stand 27, request pushback.
+stand two seven request pushback
+
+Pushback approved, Runway 31.
+pushback approved runway three one
+
+Stand by pushback.
+stand by pushback
+
+Pushback at own discretion.
+pushback at own discretion
+
+Pushback approved, long pushback.
+pushback approved long pushback
+
+Pushback to taxiway A approved.
+pushback to taxiway alpha approved
+
+Pushback approved, facing west.
+pushback approved facing west
+
+Cancel pushback, we have maintenance problem.
+cancel pushback we have maintenance problem
+
+Ground, Cockpit. Ready for pushback.
+ground cockpit ready for pushback
+
+Brakes released.
+brakes released
+
+Starting Number One.
+starting number one
+
+Brakes set, disconnect.
+brakes set disconnect
+
+Request taxi.
+request taxi
+
+Taxi via taxiway C to holding point Runway 24.
+taxi via taxiway charlie to holding point runway two four
+
+Taxi to holding point Runway 24, traffic in sight.
+taxi to holding point runway two four traffic in sight
+
+Request taxi back for maintenance purpose.
+request taxi back for maintenance purpose
+
+Negative. We need 10 minutes to cool the brakes.
+negative we need one zero minutes to cool the brakes
+
+Approaching holding point, request crossing Runway 24.
+approaching holding point request crossing runway two four
+
+Hold short of Runway 24.
+hold short of runway two four
+
+Holding, traffic in sight.
+holding traffic in sight
+
+Cross Runway 24, report runway vacated.
+cross runway two four report runway vacated
+
+Unable to vacate via A2, request full length of runway.
+unable to vacate via alpha two request full length of runway
+
+Crossing Runway 24, wilco.
+crossing runway two four wilco
+
+Runway vacated.
+runway vacated
+
+Giving way to B747 passing from left to right.
+giving way to bravo seven four seven passing from left to right
+
+Follow the greens to holding point Runway 05R.
+follow the greens to holding point runway zero five romeo
+
+Cross red stop-bar at A1, we understand stop-bar unserviceable.
+cross red stop bar at alpha one we understand stop bar unserviceable
+
+After landing Airbus320, cross Runway 24, report vacated.
+after landing airbus three two zero cross runway two four report vacated
+
+Taxi to holding point C3, Runway 36.
+taxi to holding point charlie three runway three six
+
+Behind Boeing747 passing left to right, taxi to holding point A1 Runway 24.
+behind boeing seven four seven passing left to right taxi to holding point alpha one runway two four
+
+Ready for departure.
+ready for departure
+
+After departure, climb straight ahead until 3000 feet.
+after departure climb straight ahead until three thousand feet
+
+Cancel SID, maintain runway heading.
+cancel sid maintain runway heading
+
+Lining up Runway 01C.
+lining up runway zero one charlie
+
+Ready for immediate departure.
+ready for immediate departure
+
+Cleared for immediate takeoff.
+cleared for immediate takeoff
+
+Runway 06, cleared for takeoff. Report airborne.
+runway zero six cleared for takeoff report airborne
+
+Cleared for takeoff, Runway 06, wilco.
+cleared for takeoff runway zero six wilco
+
+Airborne, passing 500 feet for 4000 feet.
+airborne passing five hundred feet for four thousand feet
+
+The airbus on final in sight.
+the airbus on final in sight
+
+Behind Airbus on short final, line up behind.
+behind airbus on short final line up behind
+
+After departure, turn left heading 190, Runway 24R, cleared for takeoff.
+after departure turn left heading one nine zero runway two four romeo cleared for takeoff
+
+Request right turn when airborne due weather.
+request right turn when airborne due weather
+
+Take off immediately or hold short of runway.
+take off immediately or hold short of runway
+
+Take off immediately or vacate runway.
+take off immediately or vacate runway
+
+Hold position, cancel takeoff, I say again, cancel takeoff.
+hold position cancel takeoff i say again cancel takeoff
+
+Holding position.
+holding position
+
+Stopping! Engine fire.
+stopping engine fire
+
+Request return to ramp.
+request return to ramp
+
+Tire burst, possible evacuation on runway.
+tire burst possible evacuation on runway
+
+Negative intersection departure due performance.
+negative intersection departure due performance
+
+Affirm. We can accept intersection departure from C2.
+affirm we can accept intersection departure from charlie two
+
+Request intersection departure from C2.
+request intersection departure from charlie two
+
+Request Takeoff Runway Available (TORA) from intersection C2.
+request takeoff runway available from intersection charlie two
+
+Request Accelerate-Stop Distance Available (ASDA) from intersection D1.
+request accelerate stop distance available from intersection delta one
+
+Request Takeoff Distance Available (TODA) from intersection E3.
+request takeoff distance available from intersection echo three
+
+Line up and wait. Understand one aircraft to depart from A2.
+line up and wait understand one aircraft to depart from alpha two
+
+Taxi via A2, backtrack and line-up Runway 18.
+taxi via alpha two backtrack and line up runway one eight
+
+Airbus 330 heavy, 8000 feet, Information X.
+airbus three three zero heavy eight thousand feet information xray
+
+Join right-hand downwind, Runway 34.
+join right hand downwind runway three four
+
+Number Two, follow airbus 330 on base.
+number two follow airbus three three zero on base
+
+Number Two, traffic in sight.
+number two traffic in sight
+
+Straight-in visual approach, Runway 34.
+straight in visual approach runway three four
+
+Extend downwind, Number Two, airbus 320 in sight.
+extend downwind number two airbus three two zero in sight
+
+Orbit right. Number Two.
+orbit right number two
+
+Number Two, follow airbus 320 ahead.
+number two follow airbus three two zero ahead
+
+Make a short approach.
+make a short approach
+
+Long final, airfield in sight.
+long final airfield in sight
+
+Continue approach Runway 25.
+continue approach runway two five
+
+Runway 27, cleared to land.
+runway two seven cleared to land
+
+Short final, request wind check.
+short final request wind check
+
+Request low pass due unsafe landing gear indication.
+request low pass due unsafe landing gear indication
+
+Low pass approved Runway 27, not below 500 feet.
+low pass approved runway two seven not below five hundred feet
+
+Landing clearance canceled. Continue approach.
+landing clearance canceled continue approach
+
+Behind the Boeing737, cleared to land.
+behind the boeing seven three seven cleared to land
+
+Request low approach.
+request low approach
+
+Runway not in sight, going around.
+runway not in sight going around
+
+No contact at minimum, going around.
+no contact at minimum going around
+
+Wind shear, going around.
+wind shear going around
+
+Going around, localizer fluctuation.
+going around localizer fluctuation
+
+Follow the standard missed approach procedure, climbing to 3000 feet.
+follow the standard missed approach procedure climbing to three thousand feet
+
+Take first right. When vacated, contact Ground 118.35.
+take first right when vacated contact ground one one eight decimal three five
+
+After vacated contact Ground 121.6.
+after vacated contact ground one two one decimal six
+
+Taxi to Stand 27 via Taxiway A.
+taxi to stand two seven via taxiway alpha
+
+Taxi to the end of Runway.
+taxi to the end of runway
+
+Confirm construction work adjacent to Gate 37.
+confirm construction work adjacent to gate three seven
+
+Confirm centerline taxiway lighting unserviceable.
+confirm centerline taxiway lighting unserviceable
+
+Confirm PAPI light unserviceable.
+confirm papa alpha papa india light unserviceable
+
+The Runway light is too bright. Request dim it.
+the runway light is too bright request dim it
+
+Flock of birds 3 miles final.
+flock of birds three miles final
+
+Runway covered with patches of water, braking action medium.
+runway covered with patches of water braking action medium
+
+Confirm airport rescue and fire facilities category.
+confirm airport rescue and fire facilities category
+
+Is the weather improving or deteriorating?
+is the weather improving or deteriorating
+
+Thicker patches of fog exist further along the runway. RVR significantly reduced.
+thicker patches of fog exist further along the runway romeo victor romeo significantly reduced
+
+Confirm current RVR less than 400 meters.
+confirm current romeo victor romeo less than four hundred meters
+
+Confirm visibility more than 1000 meters.
+confirm visibility more than one thousand meters
+
+Is mid-point RVR available?
+is mid point romeo victor romeo available
+
+Confirm RVR Runway 27.
+confirm romeo victor romeo runway two seven
+
+RVR Runway 27 is 600 meters.
+romeo victor romeo runway two seven is six hundred meters
+
+Confirm touchdown RVR greater than 350 meters.
+confirm touchdown romeo victor romeo greater than three five zero meters
+
+Confirm stop-end RVR 150 meters.
+confirm stop end romeo victor romeo one five zero meters
+
+Confirm midpoint RVR more than 550 meters.
+confirm midpoint romeo victor romeo more than five five zero meters
+
+Confirm threshold Runway 27 displaced.
+confirm threshold runway two seven displaced
+
+The runway surface is damp. Braking action good.
+the runway surface is damp braking action good
+
+Confirm the reason for our flight suspension.
+confirm the reason for our flight suspension
+
+Confirm our flight has been suspended due bio-hazards at destination.
+confirm our flight has been suspended due bio hazards at destination
+
+Confirm the reason for impounding our aircraft.
+confirm the reason for impounding our aircraft
+
+Tow approved via A to remote apron.
+tow approved via alpha to remote apron
+
+Request de-icing.
+request de icing
+
+Request frost removal only at the gate.
+request frost removal only at the gate
+
+De-icing completed. Request taxi.
+de icing completed request taxi
+
+Request start engine at the gate.
+request start engine at the gate
+
+Request time check.
+request time check
+
+Request backtrack.
+request backtrack
+
+Unable BK-1A Departure due performance. Request BK-1B.
+unable bravo kilo one alpha departure due performance request bravo kilo one bravo
+
+Request departure instruction.
+request departure instruction
+
+When airborne, track extended center-line, cleared for takeoff, Runway 18.
+when airborne track extended center line cleared for takeoff runway one eight
+
+Contact Arrival 118.050.
+contact arrival one one eight decimal zero five zero
+
+Request remote apron for maintenance purpose.
+request remote apron for maintenance purpose
+
+Continue present heading.
+continue present heading
+
+Resume own navigation to BK.
+resume own navigation to bravo kilo
+
+Confirm identification lost.
+confirm identification lost
+
+Identified, position 50 miles east of BK.
+identified position five zero miles east of bravo kilo
+
+30 miles from touchdown, contact Approach 118.1.
+three zero miles from touchdown contact approach one one eight decimal one
+
+Three sixty turn left.
+three sixty turn left
+
+Orbit left for delay.
+orbit left for delay
+
+Looking out.
+looking out
+
+Traffic in sight.
+traffic in sight
+
+Negative contact due IMC.
+negative contact due imc
+
+Traffic passed and clear.
+traffic passed and clear
+
+Squawk 7563.
+squawk seven five six three
+
+Reset squawk 5101.
+reset squawk five one zero one
+
+Squawk ident.
+squawk ident
+
+Squawk standby.
+squawk standby
+
+Squawk Charlie and code 5120.
+squawk charlie and code five one two zero
+
+Stopping squawk Charlie.
+stopping squawk charlie
+
+Affirm squawk 7500.
+affirm squawk seven thousand five hundred
+
+Altimeter 1003 8000ft.
+altimeter one zero zero three eight thousand ft
+
+Negative squawk ident due transponder failure.
+negative squawk ident due transponder failure
+
+Turn right heading 340.
+turn right heading three four zero
+
+Turn right 20 degrees.
+turn right two zero degrees
+
+Leave BK heading 190.
+leave bravo kilo heading one nine zero
+
+Fly heading 285.
+fly heading two eight five
+
+Stop turn heading 070.
+stop turn heading zero seven zero
+
+Request heading 180 due weather.
+request heading one eight zero due weather
+
+Confirm danger area 113 active.
+confirm danger area one one three active
+
+Your radar vector appears to be taking us to the prohibited area, confirm.
+your radar vector appears to be taking us to the prohibited area confirm
+
+50 miles right of track approved, when able, proceed direct TB.
+five zero miles right of track approved when able proceed direct tango bravo
+
+Indicated speed 270 knots.
+indicated speed two seven zero knots
+
+Maintain 300 knots or less.
+maintain three hundred knots or less
+
+Maintain 180 knots until 8 miles from touchdown.
+maintain one eight zero knots until eight miles from touchdown
+
+Maintain Mach decimal 82, transition speed 310 knots.
+maintain mach decimal eight two transition speed three one zero knots
+
+Maintain speed 280 knots or greater for separation.
+maintain speed two eight zero knots or greater for separation
+
+Cross CK at 35 or later.
+cross charlie kilo at three five or later
+
+Cross DG at 24 or earlier.
+cross delta golf at two four or earlier
+
+Do not exceed 280 knots.
+do not exceed two eight zero knots
+
+Reduce speed to 240 knots.
+reduce speed to two four zero knots
+
+Increase speed to 300 knots or greater.
+increase speed to three hundred knots or greater
+
+Increase speed by 10 knots.
+increase speed by one zero knots
+
+Resume normal speed.
+resume normal speed
+
+No speed restrictions.
+no speed restrictions
+
+Request speed 200 knots due configuration.
+request speed two hundred knots due configuration
+
+Request speed 250 knots due turbulence.
+request speed two five zero knots due turbulence
+
+Omit position reports until LN.
+omit position reports until lima november
+
+Next report at IP.
+next report at india papa
+
+Report required only at boundary.
+report required only at boundary
+
+We have traffic at our 12 o’clock, 5 miles, 500 feet below, climbing.
+we have traffic at our one two o'clock five miles five hundred feet below climbing
+
+Traffic indication at our 1 o’clock, 4 miles, same altitude, converging.
+traffic indication at our one o'clock four miles same altitude converging
+
+Request vectors.
+request vectors
+
+Unable to receive transmission on that frequency.
+unable to receive transmission on that frequency
+
+Request 15 miles final.
+request one five miles final
+
+Maintain 3000 feet until glide path interception.
+maintain three thousand feet until glide path interception
+
+NOTAM says glide slope for Runway15 is unserviceable, confirm.
+notam says glide slope for runway one five is unserviceable confirm
+
+Confirm ILS frequency for Runway 17L.
+confirm ils frequency for runway one seven lima
+
+In case of going around, turn left heading 210.
+in case of going around turn left heading two one zero
+
+Advise transponder capability.
+advise transponder capability
+
+Transponder Charlie.
+transponder charlie
+
+Transponder unserviceable.
+transponder unserviceable
+
+ADS-B transmitter 1090 (ten-ninety) data link.
+adsb transmitter one zero nine zero data link
+
+ADS-B receiver 1090 (ten-ninety) data link.
+adsb receiver one zero nine zero data link
+
+Negative ADS-B.
+negative adsb
+
+Re-enter ADS-B aircraft identification.
+re enter adsb aircraft identification
+
+Stop ADS-B transmission.
+stop adsb transmission
+
+Stop squawk transmit ADS-B only.
+stop squawk transmit adsb only
+
+Fly no further west of your current position.
+fly no further west of your current position
+
+Unable identify the waypoint, request radar vectors.
+unable identify the waypoint request radar vectors
+
+Right heading 120, my own terrain clearance.
+right heading one two zero my own terrain clearance
+
+Heading 120, correction, 140.
+heading one two zero correction one four zero
+
+We are too low to the surrounding terrain. Confirm we are still being radar vectored.
+we are too low to the surrounding terrain confirm we are still being radar vectored
+
+Confirm we are still above your minimum vectoring altitude.
+confirm we are still above your minimum vectoring altitude
+
+Right heading 040 until passing FL70 then direct to BK.
+right heading zero four zero until passing flight level seven zero then direct to bravo kilo
+
+Direct to JO, descend to FL50.
+direct to juliett oscar descend to flight level five zero
+
+Passing FL70.
+passing flight level seven zero
+
+Descending to 4000 feet QNH1005, expect ILS approach Runway 24.
+descending to four thousand feet qnh one zero zero five expect ils approach runway two four
+
+Request straight-in ILS approach Runway 24.
+request straight in ils approach runway two four
+
+Cleared straight-in ILS approach Runway 24, descend to 3000 feet, QNH1011.
+cleared straight in ils approach runway two four descend to three thousand feet qnh one zero one one
+
+Airfield in sight, request visual approach.
+airfield in sight request visual approach
+
+When established on the localizer, descend on the glide path.
+when established on the localizer descend on the glide path
+
+Established on the localizer.
+established on the localizer
+
+Fully established Runway 24.
+fully established runway two four
+
+Cleared VOR-DME approach Runway 24, descending to 3000 feet QNH1007.
+cleared victor oscar romeo delta mike echo approach runway two four descending to three thousand feet qnh one zero zero seven
+
+Runway in sight.
+runway in sight
+
+Number One, contact Tower 118.7.
+number one contact tower one one eight decimal seven
+
+Passing outer marker.
+passing outer marker
+
+Report MQR outbound.
+report mike quebec romeo outbound
+
+Procedure turn completed, localizer established.
+procedure turn completed localizer established
+
+Request visual approach.
+request visual approach
+
+Cleared visual approach Runway 24.
+cleared visual approach runway two four
+
+Request holding instructions.
+request holding instructions
+
+Hold over BKM VOR at FL100, inbound track 280 degrees, left hand pattern, outbound time 1 minute.
+hold over bravo kilo mike vor at flight level one zero zero inbound track two eight zero degrees left hand pattern outbound time one minute
+
+Request holding procedure.
+request holding procedure
+
+Hold on the 265 radial of BKM VOR between 25 and 30 miles DME, FL100, inbound track 085, right hand pattern, expected approach time 1022.
+hold on the two six five radial of bravo kilo mike vor between two five and three zero miles dme flight level one zero zero inbound track zero eight five right hand pattern expected approach time one zero two two
+
+Hold at 20 DME of ST VOR, FL100, inbound track 260 degrees, left turns, limiting outbounddistance 24 DME.
+hold at two zero dme of sierra tango vor flight level one zero zero inbound track two six zero degrees left turns limiting outbounddistance two four dme
+
+Overhead YV, maintaining 3000 feet, entering hold.
+overhead yankee victor maintaining three thousand feet entering hold
+
+Leaving BKM VOR heading 110.
+leaving bravo kilo mike vor heading one one zero
+
+Leaving FL60, descending to 2500 feet, QNH1008.
+leaving flight level six zero descending to two thousand five hundred feet qnh one zero zero eight
+
+Position 10 miles north east of LN.
+position one zero miles north east of lima november
+
+Turn right heading 180 for base leg.
+turn right heading one eight zero for base leg
+
+Reduce to minimum approach speed, turn right heading 230, cleared for ILS approach Runway 27.
+reduce to minimum approach speed turn right heading two three zero cleared for ils approach runway two seven
+
+No ATC speed restrictions. Contact Tower 118.9.
+no atc speed restrictions contact tower one one eight decimal nine
+
+Three sixty turn left for delay.
+three sixty turn left for delay
+
+Continue present heading, expect through the localizer for spacing.
+continue present heading expect through the localizer for spacing
+
+Surveillance radar approach Runway 27, maintaining 2200 feet.
+surveillance radar approach runway two seven maintaining two thousand two hundred feet
+
+QNH1003, threshold elevation 196 feet.
+qnh one zero zero three threshold elevation one nine six feet
+
+Precision radar approach Runway 27 heading 260, descending to 2500 feet, QNH1014.
+precision radar approach runway two seven heading two six zero descending to two thousand five hundred feet qnh one zero one four
+
+Cleared to JEMMY via BK-1A Arrival.
+cleared to juliett echo mike mike yankee via bravo kilo one alpha arrival
+
+Descend to reach 5000 feet by BK.
+descend to reach five thousand feet by bravo kilo
+
+When ready, descend to FL200. Report leaving FL300.
+when ready descend to flight level two zero zero report leaving flight level three zero zero
+
+Descend immediately FL250.
+descend immediately flight level two five zero
+
+Descend to altitude 12000 feet QNH 1000.
+descend to altitude one two thousand feet qnh one thousand
+
+Descend to height 2000 feet QFE 997 hectopascals.
+descend to height two thousand feet qfe nine nine seven hectopascals
+
+Descend to 8000 feet at 1000 feet per minute or greater.
+descend to eight thousand feet at one thousand feet per minute or greater
+
+Maintain own separation and VMC, descend to FL50.
+maintain own separation and vmc descend to flight level five zero
+
+Increasing rate of climb.
+increasing rate of climb
+
+Unable expedite climb due weight.
+unable expedite climb due weight
+
+Climb to 6000 feet, follow KODAP-01 Departure.
+climb to six thousand feet follow kilo oscar delta alpha papa zero one departure
+
+Passing altitude 2300 feet, climbing to FL80.
+passing altitude two thousand three hundred feet climbing to flight level eight zero
+
+Climb to FL210, level restrictions of KODAP-01 Departure canceled.
+climb to flight level two one zero level restrictions of kilo oscar delta alpha papa zero one departure canceled
+
+Climb to FL 210, cross AU at FL100 or below.
+climb to flight level two one zero cross alpha uniform at flight level one zero zero or below
+
+Climb to FL290, level at time 55.
+climb to flight level two nine zero level at time five five
+
+Unable FL390 by boundary, request FL330.
+unable flight level three nine zero by boundary request flight level three three zero
+
+Descend to FL100, cross YU FL150 or above.
+descend to flight level one zero zero cross yankee uniform flight level one five zero or above
+
+After passing North Cross, descend to FL150.
+after passing north cross descend to flight level one five zero
+
+We are far above profile. Request holding.
+we are far above profile request holding
+
+Stop descent at 5000 feet.
+stop descent at five thousand feet
+
+Expedite descent until passing FL80.
+expedite descent until passing flight level eight zero
+
+Expect descent after AK.
+expect descent after alpha kilo
+
+Continue approach Runway 36R, maintain visual separation with preceding traffic.
+continue approach runway three six romeo maintain visual separation with preceding traffic
+
+Contact Control 80 miles after BK.
+contact control eight zero miles after bravo kilo
+
+Request change to London Control.
+request change to london control
+
+Monitor Tower 118.1.
+monitor tower one one eight decimal one
+
+Remain this frequency.
+remain this frequency
+
+We can see the approach lights at 200 feet.
+we can see the approach lights at two hundred feet
+
+Cleared VOR approach Runway 36, followed by circling to Runway 18.
+cleared vor approach runway three six followed by circling to runway one eight
+
+Expect commencing approach at time 50.
+expect commencing approach at time five zero
+
+Unable circling approach due company policy. Request diversion.
+unable circling approach due company policy request diversion
+
+Request RNAV approach.
+request rnav approach
+
+RNAV approach not available due FMS database. Request VOR approach.
+rnav approach not available due foxtrot mike sierra database request vor approach
+
+Cleared for LDA approach Runway 24.
+cleared for lima delta alpha approach runway two four
+
+Unable RNAV due equipment, request conventional arrival.
+unable rnav due equipment request conventional arrival
+
+Unable RNAV, loss of RAIM, request NDB approach.
+unable rnav loss of romeo alpha india mike request november delta bravo approach
+
+GPS primary lost, going around.
+gps primary lost going around
+
+RAIM alert, going around.
+romeo alpha india mike alert going around
+
+Negative RNAV.
+negative rnav
+
+Proceed to AK, hold as published, expect approach clearance at 30.
+proceed to alpha kilo hold as published expect approach clearance at three zero
+
+Request hold for weather improvement, visibility below company minima.
+request hold for weather improvement visibility below company minima
+
+Hold at BKM VOR FL250, right hand pattern, expect further clearance at 23, landing delay at destination airport 30 minutes.
+hold at bravo kilo mike vor flight level two five zero right hand pattern expect further clearance at two three landing delay at destination airport three zero minutes
+
+Holding northwest of W VOR FL120, what is the delay for approach?
+holding northwest of whiskey vor flight level one two zero what is the delay for approach
+
+Request to extend the holding pattern for accomplishing the checklist.
+request to extend the holding pattern for accomplishing the checklist
+
+Request extended holding to burn fuel to reduce the weight.
+request extended holding to burn fuel to reduce the weight
+
+Cleared for CAT II ILS approach Runway 24.
+cleared for charlie alpha tango india india ils approach runway two four
+
+Join right hand downwind, visual approach Runway 24.
+join right hand downwind visual approach runway two four
+
+Continue approach, prepare for possible go around.
+continue approach prepare for possible go around
+
+Disregard. We made the wrong transmission.
+disregard we made the wrong transmission
+
+Roger, request continue approach.
+roger request continue approach
+
+Stand by. We are carrying out procedures.
+stand by we are carrying out procedures
+
+Wilco, words twice.
+wilco words twice
+
+Maintaining FL350, expect descent after BKM VOR.
+maintaining flight level three five zero expect descent after bravo kilo mike vor
+
+Climb to and maintain FL310. Maintain Mach number decimal 81 or greater until BKM VOR.
+climb to and maintain flight level three one zero maintain mach number decimal eight one or greater until bravo kilo mike vor
+
+Descend to and maintain FL 270. Do not exceed Mach number decimal 79.
+descend to and maintain flight level two seven zero do not exceed mach number decimal seven nine
+
+Continue climb to FL 290, cross BKM VOR not above FL 230.
+continue climb to flight level two nine zero cross bravo kilo mike vor not above flight level two three zero
+
+Negative, unable cross BKM VOR at or above FL230 due performance.
+negative unable cross bravo kilo mike vor at or above flight level two three zero due performance
+
+Maintaining FL310 until advised.
+maintaining flight level three one zero until advised
+
+Descend to FL170, cross BKM VOR at or above FL210.
+descend to flight level one seven zero cross bravo kilo mike vor at or above flight level two one zero
+
+Affirm, cross BKM VOR at or above FL190.
+affirm cross bravo kilo mike vor at or above flight level one nine zero
+
+Negative, unable to cross BKM VOR below FL170.
+negative unable to cross bravo kilo mike vor below flight level one seven zero
+
+Affirm, cross BKM VOR at or before 55.
+affirm cross bravo kilo mike vor at or before five five
+
+Negative, unable to cross BKM VOR at 43 or later.
+negative unable to cross bravo kilo mike vor at four three or later
+
+Request lose time en route due landing delay at destination airport.
+request lose time en route due landing delay at destination airport
+
+Request lose time en route to finish the checklist.
+request lose time en route to finish the checklist
+
+Request parallel offset from current track due weather ahead.
+request parallel offset from current track due weather ahead
+
+Request parallel offset from current airway for 30 minutes due icing condition.
+request parallel offset from current airway for three zero minutes due icing condition
+
+Proceed offset 10 miles right of track until abeam BKM VOR.
+proceed offset one zero miles right of track until abeam bravo kilo mike vor
+
+Cleared offset 25 miles left of track for 30 minutes.
+cleared offset two five miles left of track for three zero minutes
+
+Offset canceled, turn right to rejoin the A1 before BKM VOR.
+offset canceled turn right to rejoin the alpha one before bravo kilo mike vor
+
+Clear of weather, request to resume flight route.
+clear of weather request to resume flight route
+
+Climb to and maintain FL290, re-cleared to track direct to BKM VOR, the rest unchanged.
+climb to and maintain flight level two nine zero re cleared to track direct to bravo kilo mike vor the rest unchanged
+
+Estimating crossing LV NDB 1123.
+estimating crossing lima victor november delta bravo one one two three
+
+Passing POU at 43, maintaining FL310, estimating MLT at 55, next NLD.
+passing papa oscar uniform at four three maintaining flight level three one zero estimating mike lima tango at five five next november lima delta
+
+BKM 47, FL170 descending to FL120, abeam NLD VOR at 55.
+bravo kilo mike four seven flight level one seven zero descending to flight level one two zero abeam november lima delta vor at five five
+
+Report 25 miles from BKM VOR.
+report two five miles from bravo kilo mike vor
+
+Report 34 miles from Top of Descent.
+report three four miles from top of descent
+
+Report crossing 270 radial BKM VOR.
+report crossing two seven zero radial bravo kilo mike vor
+
+Report 28 miles DME 210 radial BKM VOR.
+report two eight miles dme two one zero radial bravo kilo mike vor
+
+Climb to FL220, report passing FL170.
+climb to flight level two two zero report passing flight level one seven zero
+
+Descending immediately to FL190.
+descending immediately to flight level one nine zero
+
+Leaving FL220 for FL190.
+leaving flight level two two zero for flight level one nine zero
+
+Request clearance to enter controlled airspace northeast of BKM VOR at FL240 at time 43.
+request clearance to enter controlled airspace northeast of bravo kilo mike vor at flight level two four zero at time four three
+
+Remain outside controlled airspace, expect joining clearance at time 55.
+remain outside controlled airspace expect joining clearance at time five five
+
+Request to leave controlled airspace by descent.
+request to leave controlled airspace by descent
+
+Request to leave controlled airspace by climb.
+request to leave controlled airspace by climb
+
+Descending to 5000 feet QNH 1014, report passing 7000 feet.
+descending to five thousand feet qnh one zero one four report passing seven thousand feet
+
+Request VMC descent to FL60.
+request vmc descent to flight level six zero
+
+Descending to FL60, maintain VMC FL90 to FL70, report traffic in sight at FL80.
+descending to flight level six zero maintain vmc flight level nine zero to flight level seven zero report traffic in sight at flight level eight zero
+
+Request join airway A1 at DAPRO.
+request join airway alpha one at delta alpha papa romeo oscar
+
+Cleared to destination airport via DAPRO, flight planned route, FL240, join A1 at FL240.
+cleared to destination airport via delta alpha papa romeo oscar flight planned route flight level two four zero join alpha one at flight level two four zero
+
+Remain outside controlled airspace, expect further clearance at 55.
+remain outside controlled airspace expect further clearance at five five
+
+If FL240 not available, we accept FL220.
+if flight level two four zero not available we accept flight level two two zero
+
+Cleared to leave A1 via BKM VOR, maintain FL230 while in controlled airspace.
+cleared to leave alpha one via bravo kilo mike vor maintain flight level two three zero while in controlled airspace
+
+Confirm we are under radar control.
+confirm we are under radar control
+
+Confirm radar service is terminated.
+confirm radar service is terminated
+
+Radar service is terminated due technical failure. Maintain Mach number decimal 81 or less for separation.
+radar service is terminated due technical failure maintain mach number decimal eight one or less for separation
+
+Confirm radar control is resumed.
+confirm radar control is resumed
+
+Radar control is resumed, track direct to BKM VOR and increase speed to Mach number decimal 84.
+radar control is resumed track direct to bravo kilo mike vor and increase speed to mach number decimal eight four
+
+Affirm RVSM.
+affirm rvsm
+
+Negative RVSM due equipment downgraded.
+negative rvsm due equipment downgraded
+
+Request clearance into RVSM airspace.
+request clearance into rvsm airspace
+
+Unable RVSM due turbulence.
+unable rvsm due turbulence
+
+Ready to resume RVSM.
+ready to resume rvsm
+
+Position 42N（North）165E (East) at 0800, FL390, estimating 44 N 180E at 0900 45N 170W next.
+position four two north one six five east at zero thousand eight hundred flight level three nine zero estimating four four north one eight zero east at zero thousand nine hundred four five north one seven zero west next
+
+At 150W (west) contact San Francisco Radio, primary 3494, secondary 11342.
+at one five zero west contact san francisco radio primary three four nine four secondary one one three four two
+
+At 144E (east) squawk 2000.
+at one four four east squawk two thousand
+
+CPDLC connected.
+cpdlc connected
+
+Continue CPDLC make position report via CPDLC.
+continue cpdlc make position report via cpdlc
+
+SELCAL CODE EFFG, request SELCAL check.
+selcal charlie oscar delta echo echo foxtrot foxtrot golf request selcal check
+
+CPDLC unserviceable, request to revert to voice communication.
+cpdlc unserviceable request to revert to voice communication
+
+The air conditioning system has malfunctioned.
+the air conditioning system has malfunctioned
+
+We have only one air conditioning pack operational. Request a new cruising level below FL300.
+we have only one air conditioning pack operational request a new cruising level below flight level three zero zero
+
+All our air conditioning packs have malfunctioned. Request rapid descent to MEA .
+all our air conditioning packs have malfunctioned request rapid descent to mike echo alpha
+
+We had a malfunction of one air conditioning pack. Request descent to a lower level.
+we had a malfunction of one air conditioning pack request descent to a lower level
+
+We have lost electrical power to the cabin air compressor. Request immediate descent to 10,000 feet.
+we have lost electrical power to the cabin air compressor request immediate descent to one zero zero zero zero feet
+
+We just had a smoke emergency. We need to depressurize the airplane to let in fresh air. Request rapid descent to 8000 feet.
+we just had a smoke emergency we need to depressurize the airplane to let in fresh air request rapid descent to eight thousand feet
+
+We have unusual smell from air conditioning packs. Request stop climb at 7000 feet.
+we have unusual smell from air conditioning packs request stop climb at seven thousand feet
+
+Many passengers are suffering from smoke inhalation. Request medical assistance on arrival.
+many passengers are suffering from smoke inhalation request medical assistance on arrival
+
+Our pressurization system has malfunctioned.
+our pressurization system has malfunctioned
+
+We have difficulty in controlling the cabin pressure.
+we have difficulty in controlling the cabin pressure
+
+We have a cabin altitude problem.
+we have a cabin altitude problem
+
+Our cabin rate of climb has red-lined. Request immediate descent.
+our cabin rate of climb has red lined request immediate descent
+
+We have a slow cabin decompression. Request immediate descent.
+we have a slow cabin decompression request immediate descent
+
+Our cabin altitude at one time had reached 16000 feet. Some passengers have symptoms of hypoxia.
+our cabin altitude at one time had reached one six thousand feet some passengers have symptoms of hypoxia
+
+We are now depressurized and will fly a more shallow descent profile.
+we are now depressurized and will fly a more shallow descent profile
+
+Request descent rate less than 500 feet per minute due to unpressurized cabin.
+request descent rate less than five hundred feet per minute due to unpressurized cabin
+
+We are now ventilating with ram air. It is best that our rate of descent does not exceed 600 feet per minute.
+we are now ventilating with ram air it is best that our rate of descent does not exceed six hundred feet per minute
+
+We have a problem with the avionics ventilation system.
+we have a problem with the avionics ventilation system
+
+We have an avionics ventilation problem. The skin heat-exchangers and blower fan have failed.
+we have an avionics ventilation problem the skin heat exchangers and blower fan have failed
+
+The avionics ventilation is unserviceable. Request diversion to the closest suitable airport.
+the avionics ventilation is unserviceable request diversion to the closest suitable airport
+
+We have severe vibration coming from the avionics ventilation fan.
+we have severe vibration coming from the avionics ventilation fan
+
+There are unusual noises coming from the avionics bay.
+there are unusual noises coming from the avionics bay
+
+Our FMS has malfunctioned. Request radar vectors.
+our foxtrot mike sierra has malfunctioned request radar vectors
+
+Request further climb due wind-shear.
+request further climb due wind shear
+
+Unable to maintain altitude, request leaving RVSM airspace.
+unable to maintain altitude request leaving rvsm airspace
+
+We cannot make RNP approach due equipment.
+we cannot make rnp approach due equipment
+
+Our navigation accuracy is low. Request to climb to minimum safe altitude.
+our navigation accuracy is low request to climb to minimum safe altitude
+
+We have a navigation map shift, unable to perform the RNAV approach. Request radar vectors.
+we have a navigation map shift unable to perform the rnav approach request radar vectors
+
+Inertial reference system has failed. We are navigating on raw data. Request conventional approach.
+inertial reference system has failed we are navigating on raw data request conventional approach
+
+The Morse code for the VOR is different from the approach chart. Confirm the VOR is fully operational.
+the morse code for the vor is different from the approach chart confirm the vor is fully operational
+
+The ILS signal seems to be very unstable. Did any other pilot report a similar situation?
+the ils signal seems to be very unstable did any other pilot report a similar situation
+
+The approach lights for Runway 36L are a bit different from those shown on the airport diagram.
+the approach lights for runway three six lima are a bit different from those shown on the airport diagram
+
+The flight path is unstable. Going around.
+the flight path is unstable going around
+
+We made a missed approach due to unstable ILS signals.
+we made a missed approach due to unstable ils signals
+
+The ILS signal was unstable. Request approach to another runway or request another type of approach.
+the ils signal was unstable request approach to another runway or request another type of approach
+
+The DME indication is not correct. Confirm the DME is still in service.
+the dme indication is not correct confirm the dme is still in service
+
+We have lost our flight plan after a flight management computer reset.
+we have lost our flight plan after a flight management computer reset
+
+We need a few minutes to reprogram the flight management computers. Request radar vectors.
+we need a few minutes to reprogram the flight management computers request radar vectors
+
+We need to reconfigure the flight management computers for approach. Request holding instructions.
+we need to reconfigure the flight management computers for approach request holding instructions
+
+We are now flying with basic navigation due to systems failure. Request radar vectors.
+we are now flying with basic navigation due to systems failure request radar vectors
+
+We have multiple failures on the inertial reference system. We are no longer able to fly oceanic route. Request return for landing.
+we have multiple failures on the inertial reference system we are no longer able to fly oceanic route request return for landing
+
+We do not meet GPS approach requirement due to flight crew qualifications.
+we do not meet gps approach requirement due to flight crew qualifications
+
+Our Airline policy does not allow us to perform CAT IIIC approach.
+our airline policy does not allow us to perform charlie alpha tango india india india charlie approach
+
+Our operations manual forbids this procedure.
+our operations manual forbids this procedure
+
+Our Aviation Authority does not permit this procedure.
+our aviation authority does not permit this procedure
+
+We are unable to conform to the noise abatement procedure due performance.
+we are unable to conform to the noise abatement procedure due performance
+
+We are not qualified for CAT IIIB approach and auto-land. Request diversion.
+we are not qualified for charlie alpha tango india india india bravo approach and auto land request diversion
+
+Our VHF number One receiver has failed. We are no longer monitoring 121.5.
+our vhf number one receiver has failed we are no longer monitoring one two one decimal five
+
+All stations, transmitting blind due to receiver failure.
+all stations transmitting blind due to receiver failure
+
+All of our VHF transmitters have failed, now transmitting on HF radio. Please respond.
+all of our vhf transmitters have failed now transmitting on hf radio please respond
+
+Our SELCAL has malfunctioned. We will continue monitoring your frequency.
+our selcal has malfunctioned we will continue monitoring your frequency
+
+We are receiving an ELT signal on 121.5.
+we are receiving an echo lima tango signal on one two one decimal five
+
+We are picking up a broadcast signal on 121.5.
+we are picking up a broadcast signal on one two one decimal five
+
+Our satellite phone is unserviceable. We are unable to call company operations.
+our satellite phone is unserviceable we are unable to call company operations
+
+Our data-link has malfunctioned. Request re-release the flight plan by voice.
+our data link has malfunctioned request re release the flight plan by voice
+
+Our data-link has malfunctioned. Request ATC clearance by voice.
+our data link has malfunctioned request atc clearance by voice
+
+My apologies, I wasn’t aware the boom mike was transmitting.
+my apologies i wasn't aware the boom mike was transmitting
+
+Sorry for blocking the frequency due microphone jammed.
+sorry for blocking the frequency due microphone jammed
+
+We have an electrical failure.
+we have an electrical failure
+
+One of our generators has failed. At present moment, we are still able to continue to our destination.
+one of our generators has failed at present moment we are still able to continue to our destination
+
+Request diversion to the nearest suitable airport due AC BUS failure.
+request diversion to the nearest suitable airport due alpha charlie bravo uniform sierra failure
+
+We are not supplying power to our DC BUS. Request priority landing.
+we are not supplying power to our delta charlie bravo uniform sierra request priority landing
+
+We have a problem with the aircraft battery. Request priority landing.
+we have a problem with the aircraft battery request priority landing
+
+One of our transformers has failed. I’ll let you know if a diversion is required.
+one of our transformers has failed i'll let you know if a diversion is required
+
+Electrical system has a serious malfunction. Request radar vectors to an airport that’s within 20 minutes off light time.
+electrical system has a serious malfunction request radar vectors to an airport that's within two zero minutes off light time
+
+We are operating with only the emergency generator. Request track direct to final, Runway 26.
+we are operating with only the emergency generator request track direct to final runway two six
+
+We are flying with batteries only. Is there any airport available within 25 minutes of flying?
+we are flying with batteries only is there any airport available within two five minutes of flying
+
+If there is no airport within 100 miles, we have to make a forced landing.
+if there is no airport within one hundred miles we have to make a forced landing
+
+We have less than 10 minutes of battery power left. We are preparing for ditching procedure.
+we have less than one zero minutes of battery power left we are preparing for ditching procedure
+
+We have switched off most of our electrical systems for smoke procedure. Request vectors for a long final, Runway 15.
+we have switched off most of our electrical systems for smoke procedure request vectors for a long final runway one five
+
+We have cut off the electrical system to the cabin and the onboard fire is under control.
+we have cut off the electrical system to the cabin and the onboard fire is under control
+
+We had an electrical fire from the galley, now extinguished. Request return to land.
+we had an electrical fire from the galley now extinguished request return to land
+
+There was a fire from the avionics bay. Request radar vectors for final.
+there was a fire from the avionics bay request radar vectors for final
+
+We have had a bird strike. Our windshield has cracked.
+we have had a bird strike our windshield has cracked
+
+The windshield suddenly had electrical arcing. We need to pull the circuit breakers and delay the approach.
+the windshield suddenly had electrical arcing we need to pull the circuit breakers and delay the approach
+
+The cockpit side window is not sealed properly. Request reduce to minimum speed and descend to 4000 feet.
+the cockpit side window is not sealed properly request reduce to minimum speed and descend to four thousand feet
+
+We had to go around due pilot seat moving. We’ll try to reset the circuit breaker before making another approach.
+we had to go around due pilot seat moving we'll try to reset the circuit breaker before making another approach
+
+We have already discharged the engine extinguishers. The fire warning light is still on. Do you have a visual on our left engine?
+we have already discharged the engine extinguishers the fire warning light is still on do you have a visual on our left engine
+
+We cannot extinguish the engine fire. Request priority landing and emergency services on arrival.
+we cannot extinguish the engine fire request priority landing and emergency services on arrival
+
+We have an APU fire warning. Can you verify if there is smoke coming from the back of the plane?
+we have an apu fire warning can you verify if there is smoke coming from the back of the plane
+
+The APU fire seems to be extinguished. Request fire trucks on standby and stairs vehicle to disembark the passengers.
+the apu fire seems to be extinguished request fire trucks on standby and stairs vehicle to disembark the passengers
+
+The APU is still on fire. We are evacuating. Request emergency services.
+the apu is still on fire we are evacuating request emergency services
+
+We had a cargo smoke warning. Advise the ground handlers NOT to open our cargo door until the passengers have all disembarked.
+we had a cargo smoke warning advise the ground handlers november oscar tango to open our cargo door until the passengers have all disembarked
+
+A passenger ignited the lavatory waste bin. Advise the airport police to await our arrival.
+alpha passenger ignited the lavatory waste bin advise the airport police to await our arrival
+
+We have smoke coming out of our avionics bay. It is out of control. Request proceed direct to final and cancel all speed restrictions.
+we have smoke coming out of our avionics bay it is out of control request proceed direct to final and cancel all speed restrictions
+
+We have smoke coming from our avionics bay. We are evacuating. Request fire trucks.
+we have smoke coming from our avionics bay we are evacuating request fire trucks
+
+We have smoke coming from our avionics bay. We are disembarking the passengers.
+we have smoke coming from our avionics bay we are disembarking the passengers
+
+Request descent to 10000 feet to ventilate the aircraft due smoke.
+request descent to one zero thousand feet to ventilate the aircraft due smoke
+
+We had emptied most of our fire extinguishers, but the cabin fire is still on.
+we had emptied most of our fire extinguishers but the cabin fire is still on
+
+We are having flight control problems.
+we are having flight control problems
+
+Our flight control computers are not functioning well. We are having difficulty maintaining level flight, unable RVSM.
+our flight control computers are not functioning well we are having difficulty maintaining level flight unable rvsm
+
+Our pitch control has malfunctioned. We cannot move the elevators. We are flying the airplane with only trim.
+our pitch control has malfunctioned we cannot move the elevators we are flying the airplane with only trim
+
+The aircraft has a tendency to roll to the right. I need additional airspace to maneuver.
+the aircraft has a tendency to roll to the right i need additional airspace to maneuver
+
+We have finished the checklist but still cannot retract some of the speed brakes. Request the longest runway for landing.
+we have finished the checklist but still cannot retract some of the speed brakes request the longest runway for landing
+
+We cannot fully extend the flaps. Request the longest runway for landing.
+we cannot fully extend the flaps request the longest runway for landing
+
+We have asymmetric flaps. Airplane is rolling to the left. Request holding to solve the problem.
+we have asymmetric flaps airplane is rolling to the left request holding to solve the problem
+
+Request high speed approach. Part of our flight control surfaces have separated from the wing.
+request high speed approach part of our flight control surfaces have separated from the wing
+
+Request immediate climb above the minimum safe altitude to perform the checklist due to run-away trim condition.
+request immediate climb above the minimum safe altitude to perform the checklist due to run away trim condition
+
+Request vectors for long final. We are controlling the airplane with mechanical backup.
+request vectors for long final we are controlling the airplane with mechanical backup
+
+Request return to FL250.We just had an air-upset situation and lost a lot of altitude.
+request return to flight level two five zero we just had an air upset situation and lost a lot of altitude
+
+We have a problem with yaw damping. The aircraft is oscillating severely. Request diversion.
+we have a problem with yaw damping the aircraft is oscillating severely request diversion
+
+We have lost electrical power to some of the flight control actuators. Request delay our descent to perform checklist.
+we have lost electrical power to some of the flight control actuators request delay our descent to perform checklist
+
+Some of our fuel pumps have low pressure. Request descent.
+some of our fuel pumps have low pressure request descent
+
+We have a problem with fuel temperature. Request holding position on the taxiway.
+we have a problem with fuel temperature request holding position on the taxiway
+
+We are leaking fuel slowly. Request diversion.
+we are leaking fuel slowly request diversion
+
+We have a severe fuel leak situation, unable to reach the closest airport. You can expect us to make a forced landing near our present location.
+we have a severe fuel leak situation unable to reach the closest airport you can expect us to make a forced landing near our present location
+
+Our cabin crew reports that we have fuel leak from the right wing. Request diversion to closest suitable airport.
+our cabin crew reports that we have fuel leak from the right wing request diversion to closest suitable airport
+
+We have already shut down engine Number One, but it is still leaking fuel near the pylon. Request emergency services.
+we have already shut down engine number one but it is still leaking fuel near the pylon request emergency services
+
+The ground crew reports that we are leaking a bit of fuel from the bottom of the right engine nacelle. We are delaying taxi.
+the ground crew reports that we are leaking a bit of fuel from the bottom of the right engine nacelle we are delaying taxi
+
+We need to continue to run the engines at our present location for a few minutes, will advise you shortly.
+we need to continue to run the engines at our present location for a few minutes will advise you shortly
+
+The ground crew reports that we are leaking a significant amount of fuel from the bottom of Number Three engine. We have just shut it down.
+the ground crew reports that we are leaking a significant amount of fuel from the bottom of number three engine we have just shut it down
+
+The fuel leak has stopped. But if a fire starts at any time, I will order an evacuation.
+the fuel leak has stopped but if a fire starts at any time i will order an evacuation
+
+We have leaked a large amount of fuel onto the apron. Request fire trucks on standby and the stairs vehicle to disembark the passengers.
+we have leaked a large amount of fuel onto the apron request fire trucks on standby and the stairs vehicle to disembark the passengers
+
+We might have a fuel leak near the wing root. Request fire trucks on arrival.
+we might have a fuel leak near the wing root request fire trucks on arrival
+
+We have fumes in the cabin, possibly due to a fuel leak. We are anticipating an immediate evacuation after landing.
+we have fumes in the cabin possibly due to a fuel leak we are anticipating an immediate evacuation after landing
+
+We are evacuating. Advise emergency personnel that fuel odors are still present in the cabin.
+we are evacuating advise emergency personnel that fuel odors are still present in the cabin
+
+We are too heavy for landing. Request fuel-dump at the fuel dumping area.
+we are too heavy for landing request fuel dump at the fuel dumping area
+
+Request climb for dumping fuel and vectors to the fuel dump zone.
+request climb for dumping fuel and vectors to the fuel dump zone
+
+We need about 18 minutes to jettison fuel before coming in for the approach.
+we need about one eight minutes to jettison fuel before coming in for the approach
+
+We cannot shut off the fuel dump valve. Request radar vectors for short final, Runway 17.
+we cannot shut off the fuel dump valve request radar vectors for short final runway one seven
+
+We are indicating fuel filter clog. Request descent and to maintain high speed.
+we are indicating fuel filter clog request descent and to maintain high speed
+
+Our left engine failed due to fuel starvation.
+our left engine failed due to fuel starvation
+
+We are near the freezing temperature of jet fuel. Request descent to FL 390.
+we are near the freezing temperature of jet fuel request descent to flight level three nine zero
+
+We suspect there is contamination in our fuel tanks.
+we suspect there is contamination in our fuel tanks
+
+One of our hydraulic systems has exceeded temperature limits.
+one of our hydraulic systems has exceeded temperature limits
+
+We have shut down one of the hydraulic systems.
+we have shut down one of the hydraulic systems
+
+The backup hydraulic system is operational but we still want to divert.
+the backup hydraulic system is operational but we still want to divert
+
+Our hydraulic systems have a malfunction. Request descent to lower levels to extend flaps in advance.
+our hydraulic systems have a malfunction request descent to lower levels to extend flaps in advance
+
+Our hydraulic fluid is dangerously low, possibly due to a leak. Request descent to lower levels to extend flaps.
+our hydraulic fluid is dangerously low possibly due to a leak request descent to lower levels to extend flaps
+
+Two of our hydraulic systems have failed. Request immediate diversion.
+two of our hydraulic systems have failed request immediate diversion
+
+Our ram air turbine is not providing any hydraulic pressure. We are still operating on one hydraulic system only. Request diversion to the nearest suitable airport.
+our ram air turbine is not providing any hydraulic pressure we are still operating on one hydraulic system only request diversion to the nearest suitable airport
+
+Request the longest runway and vectors for a wide downwind due to hydraulic failure.
+request the longest runway and vectors for a wide downwind due to hydraulic failure
+
+We still have only one hydraulic system. Request the longest runway for landing.
+we still have only one hydraulic system request the longest runway for landing
+
+Our left engine anti-ice system has failed. Request immediate climb to leave the icing area.
+our left engine anti ice system has failed request immediate climb to leave the icing area
+
+We must descend immediately to exit icing conditions. Our right engine bleed air has failed.
+we must descend immediately to exit icing conditions our right engine bleed air has failed
+
+Both our windshield heating systems have failed. Ice is obstructing our view. Request latest airport weather.
+both our windshield heating systems have failed ice is obstructing our view request latest airport weather
+
+We had electrical arcing on the windshield and pulled the circuit breakers according to the checklist. Will advise when ready for approach.
+we had electrical arcing on the windshield and pulled the circuit breakers according to the checklist will advise when ready for approach
+
+We performed the missed approach because my windshield wiper became inoperative and I could not see very well.
+we performed the missed approach because my windshield wiper became inoperative and i could not see very well
+
+Our pitot static heating system has failed. We might have an altitude error.
+our pitot static heating system has failed we might have an altitude error
+
+We made the overshoot because of a stall warning, probably caused by a defective angle of attack probe.
+we made the overshoot because of a stall warning probably caused by a defective angle of attack probe
+
+I had to abort takeoff because I didn’t receive any airspeed indication.
+i had to abort takeoff because i didn't receive any airspeed indication
+
+We have an error in our airspeed. Request to climb to minimum safe altitude.
+we have an error in our airspeed request to climb to minimum safe altitude
+
+We have master warning lights in the cockpit. Request landing at the nearest suitable airport.
+we have master warning lights in the cockpit request landing at the nearest suitable airport
+
+We have a master caution. I will notify you if a diversion is required.
+we have a master caution i will notify you if a diversion is required
+
+Some of our instruments are not indicating correctly. Request level off to perform checklist.
+some of our instruments are not indicating correctly request level off to perform checklist
+
+Two of our display units have failed. We are no longer RNP qualified. Request diversion.
+two of our display units have failed we are no longer rnp qualified request diversion
+
+We made the go around due to navigation accuracy downgrade.
+we made the go around due to navigation accuracy downgrade
+
+We made the go around due to FMS position error.
+we made the go around due to foxtrot mike sierra position error
+
+We made the go around due to map drift on our navigation display.
+we made the go around due to map drift on our navigation display
+
+We made the go around due to GPS error.
+we made the go around due to gps error
+
+We made the go around due to lateral deviation exceedance.
+we made the go around due to lateral deviation exceedance
+
+We made the go around due to CDU failure.
+we made the go around due to cdu failure
+
+We made the go around because we exceeded the vertical deviation limit.
+we made the go around because we exceeded the vertical deviation limit
+
+We no longer have altitude warning. Request leaving RVSM airspace.
+we no longer have altitude warning request leaving rvsm airspace
+
+We have autopilot disconnection. We are no longer RVSM qualified. Request leaving RVSM airspace.
+we have autopilot disconnection we are no longer rvsm qualified request leaving rvsm airspace
+
+Our landing capability has degraded. Request terminate our approach.
+our landing capability has degraded request terminate our approach
+
+Request to climb to minimum safe altitude due to malfunction of navigation computers.
+request to climb to minimum safe altitude due to malfunction of navigation computers
+
+We performed the go-around because we had a ground proximity warning.
+we performed the go around because we had a ground proximity warning
+
+We have conflicting traffic at one o’clock, 6 miles, descending. Request heading 130 for avoidance.
+we have conflicting traffic at one o'clock six miles descending request heading one three zero for avoidance
+
+We have conflicting traffic at eleven o’clock, 8 miles, climbing. Request vectors for avoidance.
+we have conflicting traffic at eleven o'clock eight miles climbing request vectors for avoidance
+
+Traffic at our twelve o’clock, 10 miles, climbing. Should we expedite our descent to cross altitudes?
+traffic at our twelve o'clock one zero miles climbing should we expedite our descent to cross altitudes
+
+Unable, TCAS RA.
+unable tcas romeo alpha
+
+We are clear of conflict. Request further instructions.
+we are clear of conflict request further instructions
+
+About twenty passengers and crew members were injured during the TCAS maneuver. Request diversion and medical assistance on arrival.
+about twenty passengers and crew members were injured during the tcas maneuver request diversion and medical assistance on arrival
+
+We are having abnormal engine indications. Request to reduce speed to 250 knots.
+we are having abnormal engine indications request to reduce speed to two five zero knots
+
+Our engine parameters are unstable. Request stop climb at FL220.
+our engine parameters are unstable request stop climb at flight level two two zero
+
+Our oil pressure reading is lower than normal. Request hold at present position.
+our oil pressure reading is lower than normal request hold at present position
+
+The oil temperature is higher than normal. We are monitoring other engine parameters.
+the oil temperature is higher than normal we are monitoring other engine parameters
+
+Engine indicates high EGT at idle power setting. We need to have partial thrust in the descent. Request an early descent.
+engine indicates high echo golf tango at idle power setting we need to have partial thrust in the descent request an early descent
+
+We are reading high engine vibration. Request to delay takeoff.
+we are reading high engine vibration request to delay takeoff
+
+Cabin altitude is increasing abnormally. Request to level off.
+cabin altitude is increasing abnormally request to level off
+
+Our instruments indicate excessive high cabin altitude.
+our instruments indicate excessive high cabin altitude
+
+Our instrument indicates abnormal cabin pressure differential.
+our instrument indicates abnormal cabin pressure differential
+
+Our fuel endurance is 48 minutes. We must leave the hold otherwise we will be at minimum fuel.
+our fuel endurance is four eight minutes we must leave the hold otherwise we will be at minimum fuel
+
+Cockpit oxygen cylinder pressure is low. Request to return for landing.
+cockpit oxygen cylinder pressure is low request to return for landing
+
+We are holding at present position. It appears one of the over-wing exits has unlocked.
+we are holding at present position it appears one of the over wing exits has unlocked
+
+It seems some of the spoilers cannot be retracted. We have to recalculate our landing distance before we start our approach, standby.
+it seems some of the spoilers cannot be retracted we have to recalculate our landing distance before we start our approach standby
+
+We have an indication that the nose wheel did not extend properly. Request low pass for visual check
+we have an indication that the nose wheel did not extend properly request low pass for visual check
+
+We have lost our braking. We used thrust reversers to stop the aircraft. Request ground services to chock the nose wheel.
+we have lost our braking we used thrust reversers to stop the aircraft request ground services to chock the nose wheel
+
+Our brakes have seized. The tyres might burst during touchdown. Request fire trucks on arrival.
+our brakes have seized the tyres might burst during touchdown request fire trucks on arrival
+
+We made the go-around because our landing gear wouldn't extend normally. Request holding pattern to perform checklist.
+we made the go around because our landing gear wouldn't extend normally request holding pattern to perform checklist
+
+We have exhausted all options. We will land without the nose gear fully locked.
+we have exhausted all options we will land without the nose gear fully locked
+
+We cannot extend the left landing gear. Request foaming the runway.
+we cannot extend the left landing gear request foaming the runway
+
+Request diversion to a nearby airport with foaming capability.
+request diversion to a nearby airport with foaming capability
+
+We applied maximum braking when we rejected takeoff. Request fire services to escort the aircraft back to the apron.
+we applied maximum braking when we rejected takeoff request fire services to escort the aircraft back to the apron
+
+The tyres are deflated. We will have to hold at present position for maintenance inspection.
+the tyres are deflated we will have to hold at present position for maintenance inspection
+
+I think we blew a nose wheel tyre. Request holding position.
+i think we blew a nose wheel tyre request holding position
+
+We no longer have airspeed and altitude on our primary displays.
+we no longer have airspeed and altitude on our primary displays
+
+We have errors with our navigation. Request radar monitoring.
+we have errors with our navigation request radar monitoring
+
+Our inertial reference system has failed, unable GPS approach. Request ILS or VOR approach.
+our inertial reference system has failed unable gps approach request ils or vor approach
+
+We made the go around because the GPWS warning was triggered.
+we made the go around because the gpws warning was triggered
+
+We have to recalibrate our instruments. Request to level off and maintain heading.
+we have to recalibrate our instruments request to level off and maintain heading
+
+Our ADS-B transmitter appears to be malfunctioning. Terminating further ADS-B transmissions.
+our adsb transmitter appears to be malfunctioning terminating further adsb transmissions
+
+ADS-B equipment degradation, will advise when able to resume operations.
+adsb equipment degradation will advise when able to resume operations
+
+GPS unreliable, terminating ADS-B transmissions.
+gps unreliable terminating adsb transmissions
+
+Our ADS-B has malfunctioned. Is there any weather advisory at our destination?
+our adsb has malfunctioned is there any weather advisory at our destination
+
+We made an overshoot because our ADS-B indicated a possible runway incursion.
+we made an overshoot because our adsb indicated a possible runway incursion
+
+We made a go-around due to head-up display problem. We’ll inform you when we are ready for the approach.
+we made a go around due to head up display problem we'll inform you when we are ready for the approach
+
+Our airspeed is unreliable. Request climb to minimum safe altitude to perform checklist.
+our airspeed is unreliable request climb to minimum safe altitude to perform checklist
+
+Our airspeed is unreliable. Request radar vectors for long final.
+our airspeed is unreliable request radar vectors for long final
+
+We made the go-around because the radio altimeter triggered flare mode.
+we made the go around because the radio altimeter triggered flare mode
+
+Our weather radar has failed and we are in IMC. Request return for landing.
+our weather radar has failed and we are in imc request return for landing
+
+Our weather radar has malfunctioned. What is the highest available level for cruise?
+our weather radar has malfunctioned what is the highest available level for cruise
+
+Our weather radar has failed. How did the preceding aircraft deviate from the weather?
+our weather radar has failed how did the preceding aircraft deviate from the weather
+
+We do not have that route in our database. Which heading should we maintain for now？
+we do not have that route in our database which heading should we maintain for now
+
+We do not have that runway in our database. Request delay our descent while we program the CDU.
+we do not have that runway in our database request delay our descent while we program the cdu
+
+We have a navigation malfunction. Request diversion to a suitable airport that has less complex terrain.
+we have a navigation malfunction request diversion to a suitable airport that has less complex terrain
+
+Our oxygen pressure is dropping rapidly. Request to fly heading 050 and descent to FL180 to escape from the mountainous area.
+our oxygen pressure is dropping rapidly request to fly heading zero five zero and descent to flight level one eight zero to escape from the mountainous area
+
+The NOTAM says the ILS is unserviceable, but we are still picking up the Morse Code, confirm it is still in operation.
+the notam says the ils is unserviceable but we are still picking up the morse code confirm it is still in operation
+
+We have an engine failure. Following ETOPS procedure, request descent to FL200, maintain high speed and proceed direct to alternate airport.
+we have an engine failure following echo tango oscar papa sierra procedure request descent to flight level two zero zero maintain high speed and proceed direct to alternate airport
+
+We cannot provide oxygen to the passengers as we are not sure where the smoke is coming from.
+we cannot provide oxygen to the passengers as we are not sure where the smoke is coming from
+
+Many passengers have suffered from smoke inhalation. Request medical services.
+many passengers have suffered from smoke inhalation request medical services
+
+There was heavy smoke in the cabin before we ventilated the aircraft. Request medical assistance for passengers after landing.
+there was heavy smoke in the cabin before we ventilated the aircraft request medical assistance for passengers after landing
+
+The aircraft is depressurized. We are descending. Confirm 10,000 feet is enough to clear terrain until we reach our alternate.
+the aircraft is depressurized we are descending confirm one zero zero zero zero feet is enough to clear terrain until we reach our alternate
+
+We are no longer getting bleed air from the right engine. Request immediate descent to leave the icing area.
+we are no longer getting bleed air from the right engine request immediate descent to leave the icing area
+
+Our APU bleed air malfunctioned during engine startup. We are calling the ground staff,standby.
+our apu bleed air malfunctioned during engine startup we are calling the ground staff standby
+
+We are expediting descent to enable a windmill startup. Request further descent.
+we are expediting descent to enable a windmill startup request further descent
+
+We are unable to restart engine number one with bleed air. Request high speed for a windmill air start.
+we are unable to restart engine number one with bleed air request high speed for a windmill air start
+
+Both engine bleed air systems have failed and we are relying on APU bleed for air conditioning. Request descent to 14, 000 feet.
+both engine bleed air systems have failed and we are relying on apu bleed for air conditioning request descent to one four zero zero zero feet
+
+We have no bleed air coming from either engines or APU. Request rapid descent to 10,000feet.
+we have no bleed air coming from either engines or apu request rapid descent to one zero thousand feet
+
+We are leaking bleed air. Request turn right heading 095 to avoid the icing area.
+we are leaking bleed air request turn right heading zero nine five to avoid the icing area
+
+CPDLC has malfunctioned. We are reverting to voice communication.
+cpdlc has malfunctioned we are reverting to voice communication
+
+Disregard my last CPDLC request for climb. We have a system problem and will maintain present level for now.
+disregard my last cpdlc request for climb we have a system problem and will maintain present level for now
+
+CPDLC terminated due to failure, reverting to voice communication.
+cpdlc terminated due to failure reverting to voice communication
+
+We just had an APU fire warning, and discharged the fire extinguisher, Request visual check if there is smoke coming from our tail section.
+we just had an apu fire warning and discharged the fire extinguisher request visual check if there is smoke coming from our tail section
+
+Another aircraft has seen a lot of smoke coming from our APU. We are evacuating. Request emergency services.
+another aircraft has seen a lot of smoke coming from our apu we are evacuating request emergency services
+
+We are at bay15. We have an APU fire. Request fire services.
+we are at bay one five we have an apu fire request fire services
+
+We have a generator failure and cannot start our APU at this altitude. Request descent to perform APU startup.
+we have a generator failure and cannot start our apu at this altitude request descent to perform apu startup
+
+A passenger has opened an over-wing emergency exit. The slide has deployed. Request to cancel our slot time.
+alpha passenger has opened an over wing emergency exit the slide has deployed request to cancel our slot time
+
+A passenger tried to unlock the cabin door in flight, the cabin crew restrained him. Request airport police on arrival.
+alpha passenger tried to unlock the cabin door in flight the cabin crew restrained him request airport police on arrival
+
+We have an abnormal noise coming from one of our cabin doors. Request rapid descent to 5000 feet.
+we have an abnormal noise coming from one of our cabin doors request rapid descent to five thousand feet
+
+Smoke is coming from the cabin floor. We are performing an evacuation. All slides have been deployed.
+smoke is coming from the cabin floor we are performing an evacuation all slides have been deployed
+
+We had a smoke warning from the forward cargo hold. We are evacuating.
+we had a smoke warning from the forward cargo hold we are evacuating
+
+We have a cargo smoke warning. We are disembarking passengers. Request fire services.
+we have a cargo smoke warning we are disembarking passengers request fire services
+
+We have smoke coming from our avionics bay. Advise the fire fighters that it might be an electrical fire.
+we have smoke coming from our avionics bay advise the fire fighters that it might be an electrical fire
+
+The cockpit windshield has cracked. Request descent to FL220.
+the cockpit windshield has cracked request descent to flight level two two zero
+
+The windshield is cracked on the outside. Request descent.
+the windshield is cracked on the outside request descent
+
+Neither of us can see through our windshield. Does your airport permit auto-land?
+neither of us can see through our windshield does your airport permit auto land
+
+Our thrust lever is not responsive. We cannot reduce thrust on engine Number One. Request holding.
+our thrust lever is not responsive we cannot reduce thrust on engine number one request holding
+
+Our engine control has malfunctioned. We cannot get much thrust. Request immediate descent.
+our engine control has malfunctioned we cannot get much thrust request immediate descent
+
+We have a thrust reverser opened in flight. We cannot maintain this level. Request immediate descent.
+we have a thrust reverser opened in flight we cannot maintain this level request immediate descent
+
+We still cannot retract the thrust reverser. Our approach speed will be higher than normal. Request vectors for the longest Runway.
+we still cannot retract the thrust reverser our approach speed will be higher than normal request vectors for the longest runway
+
+We aborted takeoff due loss of engine oil pressure.
+we aborted takeoff due loss of engine oil pressure
+
+We have an engine oil leak. Request diversion.
+we have an engine oil leak request diversion
+
+We have a low oil pressure warning from engine Number Two. Request diversion.
+we have a low oil pressure warning from engine number two request diversion
+
+Engine Number One has a temperature problem. Request holding to perform checklist.
+engine number one has a temperature problem request holding to perform checklist
+
+Our EGT continues to be above the maximum limit. Request descent. We might shut down engine Number Two shortly.
+our echo golf tango continues to be above the maximum limit request descent we might shut down engine number two shortly
+
+We have performed our procedures but engine vibration still exists. Request diversion.
+we have performed our procedures but engine vibration still exists request diversion
+
+The engine vibration is now causing the airplane to shake violently. We are shutting down our engine Number Three.
+the engine vibration is now causing the airplane to shake violently we are shutting down our engine number three
+
+We’ve made a visual inspection of engine Number Two from the cabin. The engine cowling has fallen off.
+we've made a visual inspection of engine number two from the cabin the engine cowling has fallen off
+
+Engine Number Three has smoke coming out of the pylon section. We are evacuating.
+engine number three has smoke coming out of the pylon section we are evacuating
+
+Ground vehicle has collided with our engine nacelle. Maintenance work is needed before flight. Request cancel our airway clearance.
+ground vehicle has collided with our engine nacelle maintenance work is needed before flight request cancel our airway clearance
+
+The Number Two engine has been shut down. We are no longer able to maintain level flight.Request descent to FL200.
+the number two engine has been shut down we are no longer able to maintain level flight request descent to flight level two zero zero
+
+The uncontained engine failure has caused parts of the fuselage to be damaged. Request emergency descent.
+the uncontained engine failure has caused parts of the fuselage to be damaged request emergency descent
+
+Our left engine has ingested FOD. We are shutting down engines and holding position.
+our left engine has ingested foxtrot oscar delta we are shutting down engines and holding position
+
+There is a huge gaping hole in the aisle, somehow the cabin floor has been punctured. We are re-seating passengers. Request holding.
+there is a huge gaping hole in the aisle somehow the cabin floor has been punctured we are re seating passengers request holding
+
+We have abnormal noise coming from the mid section of our fuselage, somewhere near the ceiling. Request descent and reduce speed.
+we have abnormal noise coming from the mid section of our fuselage somewhere near the ceiling request descent and reduce speed
+
+We heard an explosion from the cabin. Request to stop climb.
+we heard an explosion from the cabin request to stop climb
+
+We are unsure about the cause of the explosion. There are injuries in the cabin. We’ll give you an update as soon as possible.
+we are unsure about the cause of the explosion there are injuries in the cabin we'll give you an update as soon as possible
+
+Some passengers have cuts and burn wounds due onboard explosion. Request diversion and medical services upon arrival.
+some passengers have cuts and burn wounds due onboard explosion request diversion and medical services upon arrival
+
+Ice is accumulating rapidly on the wings and fuselage. Request emergency descent to 6000 feet.
+ice is accumulating rapidly on the wings and fuselage request emergency descent to six thousand feet
+
+We are encountering moderate icing. Request immediate descent.
+we are encountering moderate icing request immediate descent
+
+We made a diversion due to reports of freezing rain at our original destination.
+we made a diversion due to reports of freezing rain at our original destination
+
+We are on emergency descent due severe icing.
+we are on emergency descent due severe icing
+
+We are encountering clear ice. Request immediate right turn to heading 130.
+we are encountering clear ice request immediate right turn to heading one three zero
+
+Rime ice was reported by previous aircraft during approach.
+rime ice was reported by previous aircraft during approach
+
+We cannot continue holding in icing conditions. Request descent immediately and cancel speed restrictions.
+we cannot continue holding in icing conditions request descent immediately and cancel speed restrictions
+
+We have a “Wind-shear Ahead” warning message. Request to delay takeoff or change to another runway.
+we have a wind shear ahead warning message request to delay takeoff or change to another runway
+
+We have a “Wind-shear Ahead” warning. Request to delay our approach.
+we have a wind shear ahead warning request to delay our approach
+
+We made the go around due to wind-shear warning.
+we made the go around due to wind shear warning
+
+We have received information of a new volcanic eruption. Will it affect our route?
+we have received information of a new volcanic eruption will it affect our route
+
+We are unsure of our position due heavy fog. We are holding position.
+we are unsure of our position due heavy fog we are holding position
+
+We had a rapid airspeed decay due turbulence. Request immediate descent to FL390.
+we had a rapid airspeed decay due turbulence request immediate descent to flight level three nine zero
+
+We had to descend immediately due to wind-shear at our cruise level. We didn’t have time to request descent as the frequency was busy.
+we had to descend immediately due to wind shear at our cruise level we didn't have time to request descent as the frequency was busy
+
+The airplane began to buffet when climbing through FL380. We had to stop climb immediately to increase airspeed.
+the airplane began to buffet when climbing through flight level three eight zero we had to stop climb immediately to increase airspeed
+
+We are flying near our maximum altitude. We cannot maintain airspeed in this turbulence. Request immediate descent.
+we are flying near our maximum altitude we cannot maintain airspeed in this turbulence request immediate descent
+
+I apologize for the level bust, but we needed the altitude loss to recover from wind-shear.
+i apologize for the level bust but we needed the altitude loss to recover from wind shear
+
+We encountered heavy rain and had a temporary flame out on our right engine. Request immediate climb.
+we encountered heavy rain and had a temporary flame out on our right engine request immediate climb
+
+We won’t have to deviate if you allow us to climb to FL430.
+we won't have to deviate if you allow us to climb to flight level four three zero
+
+The thunderstorms will last for about 40 minutes according to the weather update. Request diversion.
+the thunderstorms will last for about four zero minutes according to the weather update request diversion
+
+We have encountered severe clear air turbulence. Request immediate descent.
+we have encountered severe clear air turbulence request immediate descent
+
+Request a general heading of 050 due to multiple cells ahead.
+request a general heading of zero five zero due to multiple cells ahead
+
+We have stopped on Runway 23 and will remain on the runway due heavy fog. I say again, we are still on the runway.
+we have stopped on runway two three and will remain on the runway due heavy fog i say again we are still on the runway
+
+There is heavy drifting fog. We think it is no longer safe to taxi. Request to hold at present position.
+there is heavy drifting fog we think it is no longer safe to taxi request to hold at present position
+
+Frontal weather is quickly moving in from the west. If the holding is more than 10 minutes, we will have to divert.
+frontal weather is quickly moving in from the west if the holding is more than one zero minutes we will have to divert
+
+We made the go-around because strong convective currents on short final made our approach unstable.
+we made the go around because strong convective currents on short final made our approach unstable
+
+There was temperature inversion when we descended through 3000 feet. Our airspeed dropped suddenly by 25 knots.
+there was temperature inversion when we descended through three thousand feet our airspeed dropped suddenly by two five knots
+
+We performed the missed approach below the minimum because of advection fog. We could no longer see the runway lights.
+we performed the missed approach below the minimum because of advection fog we could no longer see the runway lights
+
+The latest weather says that frontal weather and freezing rain is now stationary over the airport. Request diversion.
+the latest weather says that frontal weather and freezing rain is now stationary over the airport request diversion
+
+We can’t find any gaps for at least 100 miles in the squall line covering our arrival route.Request diversion.
+we can't find any gaps for at least one hundred miles in the squall line covering our arrival route request diversion
+
+We can see dust swirls approaching the airport and we’re concerned about low level wind-shear. Request holding.
+we can see dust swirls approaching the airport and we're concerned about low level wind shear request holding
+
+The latest SIGMET says a super-cell thunderstorm is developing at our destination. Is our flight affected?
+the latest sigmet says a super cell thunderstorm is developing at our destination is our flight affected
+
+Request to continue our flight. Our ETA is in two hours and maybe the airport will have the runways cleared of snow by then.
+request to continue our flight our eta is in two hours and maybe the airport will have the runways cleared of snow by then
+
+We had to make a quick heading change due ice pellets. You didn’t answer our request so we squawked 7700 and made the heading change.
+we had to make a quick heading change due ice pellets you didn't answer our request so we squawked seven thousand seven hundred and made the heading change
+
+We were struck by hail. Our airframe is severely damaged. Request emergency services.
+we were struck by hail our airframe is severely damaged request emergency services
+
+We have just encountered a lightning strike. Some of our instruments have erroneous indications. Request diversion to the nearest suitable airport.
+we have just encountered a lightning strike some of our instruments have erroneous indications request diversion to the nearest suitable airport
+
+We have had a lightning strike. So far no system seems to be affected. We will continue to our destination.
+we have had a lightning strike so far no system seems to be affected we will continue to our destination
+
+Roger heavy rain. Request to terminate our approach.
+roger heavy rain request to terminate our approach
+
+Request to cancel our approach. The runway is not long enough and there are water patches.
+request to cancel our approach the runway is not long enough and there are water patches
+
+Request to cancel our approach. Braking action is poor and we’re concerned about hydroplaning during rollout.
+request to cancel our approach braking action is poor and we're concerned about hydroplaning during rollout
+
+Request holding instructions. We’ll attempt another approach when the rain showers become lighter.
+request holding instructions we'll attempt another approach when the rain showers become lighter
+
+We have received reports of freezing rain ranging from ground up to 5000 feet. Request diversion.
+we have received reports of freezing rain ranging from ground up to five thousand feet request diversion
+
+We have observed blowing sand in the vicinity of the airport. How long will this last?
+we have observed blowing sand in the vicinity of the airport how long will this last
+
+A sandstorm is forecast to reach the airport within 20 minutes. We won’t get airborne by then. Request cancel startup and tow back to the gate.
+alpha sandstorm is forecast to reach the airport within two zero minutes we won't get airborne by then request cancel startup and tow back to the gate
+
+Heavy blowing snow is expected to last for another 30 minutes. Request to terminate approach and holding instructions.
+heavy blowing snow is expected to last for another three zero minutes request to terminate approach and holding instructions
+
+Runway is covered with patches of ice. Braking action is medium to poor.
+runway is covered with patches of ice braking action is medium to poor
+
+Ice patches are covering the runway mostly along the runway edge. Uncontaminated runway width is about 30 meters.
+ice patches are covering the runway mostly along the runway edge uncontaminated runway width is about three zero meters
+
+A dissipating thunderstorm is ahead of us. We are near the zero-degree isotherm. Request deviate an additional 10 miles to the right.
+alpha dissipating thunderstorm is ahead of us we are near the zero degree isotherm request deviate an additional one zero miles to the right
+
+We have a visual on a tornado at our 10 o’clock, about 2 miles. Request immediate right turn.
+we have a visual on a tornado at our one zero o'clock about two miles request immediate right turn
+
+The weather forecast says that the typhoon along our route will be intensifying. Request change our airway clearance.
+the weather forecast says that the typhoon along our route will be intensifying request change our airway clearance
+
+The hurricane has gathered in strength and will affect all airports at the south coast. Request diversion.
+the hurricane has gathered in strength and will affect all airports at the south coast request diversion
+
+A Pilot overflying reported seeing virga above the runways. Request to terminate our approach.
+alpha pilot overflying reported seeing virga above the runways request to terminate our approach
+
+Request immediate one eighty turn to the right due volcanic ash.
+request immediate one eighty turn to the right due volcanic ash
+
+We have entered volcanic ash. Our radios and engines are not working properly, now heading 235, and descending to FL 220, squawking 7700.
+we have entered volcanic ash our radios and engines are not working properly now heading two three five and descending to flight level two two zero squawking seven thousand seven hundred
+
+We are landing into the sun in heavy haze. Can you turn on the approach lights to maximum intensity?
+we are landing into the sun in heavy haze can you turn on the approach lights to maximum intensity
+
+Lining up Runway 35. Runway lights are too bright. Request to dim the runway lights.
+lining up runway three five runway lights are too bright request to dim the runway lights
+
+There are red lights ahead of us. Confirm taxi instructions.
+there are red lights ahead of us confirm taxi instructions
+
+There is an obstruction ahead. Confirm taxi instructions.
+there is an obstruction ahead confirm taxi instructions
+
+The NOTAM says this part of the taxiway is closed during this period, please verify.
+the notam says this part of the taxiway is closed during this period please verify
+
+The follow-me vehicle is leading us to taxiway L3. Our wings will not clear the other airplanes on this narrow taxiway. We are stopping.
+the follow me vehicle is leading us to taxiway lima three our wings will not clear the other airplanes on this narrow taxiway we are stopping
+
+We are stopping. The ground marshaller is still guiding us in, but I think my engine will hit the boarding bridge if we taxi any further.
+we are stopping the ground marshaller is still guiding us in but i think my engine will hit the boarding bridge if we taxi any further
+
+We are stopping taxi. The boarding bridge is not at its designated position.
+we are stopping taxi the boarding bridge is not at its designated position
+
+We are shutting down our engines. There are boxes blown by the wind toward our aircraft.
+we are shutting down our engines there are boxes blown by the wind toward our aircraft
+
+We had difficulty starting up our engines due strong tailwind. Request to change our pushback position facing west.
+we had difficulty starting up our engines due strong tailwind request to change our pushback position facing west
+
+Another aircraft has collided with us. I’ll command an evacuation as soon as we both turn off our engines.
+another aircraft has collided with us i'll command an evacuation as soon as we both turn off our engines
+
+The tow bar has been bent. Our maintenance crew will inspect our nose wheel. Holding position.
+the tow bar has been bent our maintenance crew will inspect our nose wheel holding position
+
+The tug has swung around and collided with our forward fuselage. We are shutting down engines. Request stairs vehicle and shuttle bus.
+the tug has swung around and collided with our forward fuselage we are shutting down engines request stairs vehicle and shuttle bus
+
+A catering truck collided with our aft fuselage. There are fumes in the cabin and we are quickly disembarking all passengers. Request fire services.
+alpha catering truck collided with our aft fuselage there are fumes in the cabin and we are quickly disembarking all passengers request fire services
+
+The flaps were extended inadvertently and hit the fuel truck. We are disembarking all onboard personnel. Request fire services.
+the flaps were extended inadvertently and hit the fuel truck we are disembarking all onboard personnel request fire services
+
+Our airplane nose has now lifted off the ground due to improper load and balance. Request ground maintenance.
+our airplane nose has now lifted off the ground due to improper load and balance request ground maintenance
+
+We have discovered leakage of dangerous goods in the cargo hold. Can you alert hazardous material specialists?
+we have discovered leakage of dangerous goods in the cargo hold can you alert hazardous material specialists
+
+Our cabin crew will direct all passengers to stay outside the runway after evacuation.
+our cabin crew will direct all passengers to stay outside the runway after evacuation
+
+The outer main landing gear might have rolled over runway lights when we made the one eighty turn. Request personnel to inspect.
+the outer main landing gear might have rolled over runway lights when we made the one eighty turn request personnel to inspect
+
+We have a suspicious bag on board. Request bomb squad.
+we have a suspicious bag on board request bomb squad
+
+The passengers are evacuating. The bomb is still on board.
+the passengers are evacuating the bomb is still on board
+
+A passenger has assembled a bomb in the lavatory. He is making threats. Request emergency services.
+alpha passenger has assembled a bomb in the lavatory he is making threats request emergency services
+
+Request a remote apron for parking our aircraft due bomb on board.
+request a remote apron for parking our aircraft due bomb on board
+
+We have had a tail strike. Request to stop climb at 3000 feet and return for landing.
+we have had a tail strike request to stop climb at three thousand feet and return for landing
+
+We have veered off the runway due asymmetric thrust. We are evacuating. Request emergency assistance.
+we have veered off the runway due asymmetric thrust we are evacuating request emergency assistance
+
+We cannot get good climb profile due engine problems. Request maintain runway heading.
+we cannot get good climb profile due engine problems request maintain runway heading
+
+We made a very hard landing. We’ll need maintenance inspection before our next flight.Suggest you check the runway touchdown zone.
+we made a very hard landing we'll need maintenance inspection before our next flight suggest you check the runway touchdown zone
+
+The center of gravity is disturbed. We will relocate passengers prior to approach. Request holding.
+the center of gravity is disturbed we will relocate passengers prior to approach request holding
+
+Request a large airspace to maneuver due flight control problems.
+request a large airspace to maneuver due flight control problems
+
+My apologies for the deviation due the wrong altitude setting. Request further instructions.
+my apologies for the deviation due the wrong altitude setting request further instructions
+
+My apologies for the level deviation. We were caught in a strong updraft.
+my apologies for the level deviation we were caught in a strong updraft
+
+We used too much speed brakes and penetrated our level. Did we cause any conflict?
+we used too much speed brakes and penetrated our level did we cause any conflict
+
+We were not informed of a frequency change. I will now monitor your frequency.
+we were not informed of a frequency change i will now monitor your frequency
+
+Unable visual approach due company policy. Request radar vectors.
+unable visual approach due company policy request radar vectors
+
+Unable circling approach due company policy. Request diversion.
+unable circling approach due company policy request diversion
+
+Are we being vectored too close to the parallel aircraft?
+are we being vectored too close to the parallel aircraft
+
+Is the preceding aircraft crossing our altitude?
+is the preceding aircraft crossing our altitude
+
+I can read you, but I’m not sure you can hear me. I will squawk ident to comply with your instructions.
+i can read you but i'm not sure you can hear me i will squawk ident to comply with your instructions
+
+I see wildfire at my 10 o’clock, about 8 miles.
+i see wildfire at my one zero o'clock about eight miles
+
+I have heard an aircraft in distress but no one’s responding. I can help relay his message.
+i have heard an aircraft in distress but no one's responding i can help relay his message
+
+Message relay: The aircraft in distress will ditch in the ocean. His present coordinate is One Eight Degrees, One Five Minutes, North, One Six Zero Degrees, Five Two Minutes East.
+message relay the aircraft in distress will ditch in the ocean his present coordinate is one eight degrees one five minutes north one six zero degrees five two minutes east
+
+The aircraft in distress says he will attempt to force land in an area about ten miles Northeast of his position.
+the aircraft in distress says he will attempt to force land in an area about ten miles northeast of his position
+
+Request offset 10 miles left to avoid the reported strong downdraft.
+request offset one zero miles left to avoid the reported strong downdraft
+
+Request diversion. The latest weather at our destination suggests snow storm will last for 5hours.
+request diversion the latest weather at our destination suggests snow storm will last for five hours
+
+Our radar shows a strong echo from the thunderstorm ahead. Request immediate right turn to avoid it.
+our radar shows a strong echo from the thunderstorm ahead request immediate right turn to avoid it
+
+Request immediate one-eighty turn to the right due to possible hail ahead.
+request immediate one eighty turn to the right due to possible hail ahead
+
+We have three serious and five minor injuries on board. Request ambulances on arrival.
+we have three serious and five minor injuries on board request ambulances on arrival
+
+One passenger is having difficulty breathing. Request descent to a lower level to reduce cabin altitude.
+one passenger is having difficulty breathing request descent to a lower level to reduce cabin altitude
+
+A passenger activated the overhead emergency oxygen generator. Request airport security on arrival to detain this individual.
+alpha passenger activated the overhead emergency oxygen generator request airport security on arrival to detain this individual
+
+A stressed passenger attempted to open an emergency exit. Request airport security on arrival.
+alpha stressed passenger attempted to open an emergency exit request airport security on arrival
+
+We have a hostage situation. Request stair vehicles on standby to disembark the passengers.
+we have a hostage situation request stair vehicles on standby to disembark the passengers
+
+We have a passenger with severe hyperventilation. He has received first aid but his condition is not improving. Request ambulance on arrival.
+we have a passenger with severe hyperventilation he has received first aid but his condition is not improving request ambulance on arrival
+
+We have a passenger with a suspected heart attack. Request diversion to a suitable airport.
+we have a passenger with a suspected heart attack request diversion to a suitable airport
+
+A pregnant passenger is in severe pain. Request priority landing and ambulance on arrival.
+alpha pregnant passenger is in severe pain request priority landing and ambulance on arrival
+
+There was a fight onboard among a few passengers. One of them is now bleeding seriously. Request police and ambulances on arrival.
+there was a fight onboard among a few passengers one of them is now bleeding seriously request police and ambulances on arrival
+
+The purser told me the injured passenger has blood type O. Maybe this information is useful to the paramedics.
+the purser told me the injured passenger has blood type oscar maybe this information is useful to the paramedics
+
+We have an 8-month old infant with head injuries. Request ambulance on arrival.
+we have an eight month old infant with head injuries request ambulance on arrival
+
+A passenger is unconscious after suffering from seizure. The cabin crew is giving her first aid. We will advise if we require a diversion.
+alpha passenger is unconscious after suffering from seizure the cabin crew is giving her first aid we will advise if we require a diversion
+
+Many passengers and crew were injured due severe turbulence. We will advise the number and severity of injuries when able.
+many passengers and crew were injured due severe turbulence we will advise the number and severity of injuries when able
+
+An elderly passenger has passed away. We will continue to our destination. Request ambulance on arrival.
+an elderly passenger has passed away we will continue to our destination request ambulance on arrival
+
+We found a passenger unconscious from a drug overdose in the lavatory. Request police and ambulance on arrival.
+we found a passenger unconscious from a drug overdose in the lavatory request police and ambulance on arrival
+
+The sick passenger’s condition has improved. We no longer require the diversion. Request to continue to our destination.
+the sick passenger's condition has improved we no longer require the diversion request to continue to our destination
+
+We received an emergency call from the cabin, but now nobody is responding. We can hear shouting and disturbance. Our cabin crew might be under duress.
+we received an emergency call from the cabin but now nobody is responding we can hear shouting and disturbance our cabin crew might be under duress
+
+We have a hijack situation on board. Can our destination airport provide armed intervention?
+we have a hijack situation on board can our destination airport provide armed intervention
+
+We can see two masked men with sharp weapons on our cockpit door surveillance camera. They are kicking the cockpit door.
+we can see two masked men with sharp weapons on our cockpit door surveillance camera they are kicking the cockpit door
+
+I can see the area outside of the cockpit. There are two hijack suspects standing in the aisle.
+i can see the area outside of the cockpit there are two hijack suspects standing in the aisle
+
+One of the terrorists is about forty-year old. He is about 180 cm tall, wearing a brown shirt and dark pants.
+one of the terrorists is about forty year old he is about one eight zero cm tall wearing a brown shirt and dark pants
+
+A terrorist is trying to access the cockpit. He is about 30 years old. He is wearing a hat and backpack.
+alpha terrorist is trying to access the cockpit he is about three zero years old he is wearing a hat and backpack
+
+The purser reports there are over ten hijackers onboard. They are threatening to kill passengers if we don’t fly to another destination.
+the purser reports there are over ten hijackers onboard they are threatening to kill passengers if we don't fly to another destination
+
+Some of the hijackers are carrying sharp protruding weapons.
+some of the hijackers are carrying sharp protruding weapons
+
+There is a stand-off in the cabin. Some of the hijackers are carrying blades.
+there is a stand off in the cabin some of the hijackers are carrying blades
+
+Terrorists started to injure passengers.
+terrorists started to injure passengers
+
+We will remain on the runway. The hijackers have taken four hostages to the rear of the cabin.
+we will remain on the runway the hijackers have taken four hostages to the rear of the cabin
+
+Terrorists are threatening to start killing passengers and the crew.
+terrorists are threatening to start killing passengers and the crew
+
+The air marshal and passengers have restrained five suspects. The situation is now under control.
+the air marshal and passengers have restrained five suspects the situation is now under control
+
+A suspicious suitcase was found during the cabin inspection.
+alpha suspicious suitcase was found during the cabin inspection
+
+The air marshal is searching the aircraft interior for any suspicious articles.
+the air marshal is searching the aircraft interior for any suspicious articles
+
+Some explosives were discovered behind a panel near the back of the cabin.
+some explosives were discovered behind a panel near the back of the cabin
+
+What do the bomb-disposal experts suggest we do?
+what do the bomb disposal experts suggest we do
+
+The cabin crew reports a passenger is behaving strangely.
+the cabin crew reports a passenger is behaving strangely
+
+A bomb has exploded and the cabin is full of smoke. Request emergency descent.
+alpha bomb has exploded and the cabin is full of smoke request emergency descent
+
+We are evacuating on the runway. Be advised the bomb is still on board.
+we are evacuating on the runway be advised the bomb is still on board
+
+We are unsure of our position due to navigation failure. If any station can hear me, please respond.
+we are unsure of our position due to navigation failure if any station can hear me please respond
+
+We only have standby magnetic compass due instrument failure. Now heading 245. Request navigation assistance.
+we only have standby magnetic compass due instrument failure now heading two four five request navigation assistance
+
+We are unsure of our position due FMS failure. Last known position five miles north of FUPAD, now heading 165 for weather avoidance.
+we are unsure of our position due foxtrot mike sierra failure last known position five miles north of foxtrot uniform papa alpha delta now heading one six five for weather avoidance
+
+We have navigation map drift. Request climb to MEA.
+we have navigation map drift request climb to mike echo alpha
+
+Our cargo manifest shows that there are 80 kilograms of lithium batteries on board.
+our cargo manifest shows that there are eight zero kilograms of lithium batteries on board
+
+A ramp inspection discovered crates of lithium batteries in the cargo hold. We are verifying. Request delay pushback.
+alpha ramp inspection discovered crates of lithium batteries in the cargo hold we are verifying request delay pushback
+
+We had a smoke warning in the cargo hold. We have discharged the fire extinguisher. We are concerned about lithium batteries in that compartment.
+we had a smoke warning in the cargo hold we have discharged the fire extinguisher we are concerned about lithium batteries in that compartment
+
+The cabin crew have used up all the portable extinguishers. Request diversion.
+the cabin crew have used up all the portable extinguishers request diversion
+
+Request passenger stairs connect immediately after we stop on the runway. We want to disembark passengers as quickly as possible.
+request passenger stairs connect immediately after we stop on the runway we want to disembark passengers as quickly as possible
+
+We almost had a mid-air collision with another aircraft.
+we almost had a mid air collision with another aircraft
+
+The conflicting traffic is military. Request avoiding action.
+the conflicting traffic is military request avoiding action
+
+Does the flight path of the unknown aircraft converge with ours?
+does the flight path of the unknown aircraft converge with ours
+
+The conflicting traffic is gray, possibly a military aircraft.
+the conflicting traffic is gray possibly a military aircraft
+
+We have traffic indication at 2 o’clock, 300 feet above our level.
+we have traffic indication at two o'clock three hundred feet above our level
+
+We have a possible traffic conflict at 10 o’clock, converging with our flight path.
+we have a possible traffic conflict at one zero o'clock converging with our flight path
+
+We have a possible traffic conflict ahead. Request radar vectors for avoidance.
+we have a possible traffic conflict ahead request radar vectors for avoidance
+
+Request right turn for traffic avoidance.
+request right turn for traffic avoidance
+
+Unable to comply, TCAS RA.
+unable to comply tcas romeo alpha
+
+We nearly collided with that aircraft. We had very little vertical separation. Do you know the flight number of that aircraft?
+we nearly collided with that aircraft we had very little vertical separation do you know the flight number of that aircraft
+
+Clear of conflict, request further instructions.
+clear of conflict request further instructions
+
+We have injuries resulting from our TCAS maneuver. Request ambulance on arrival.
+we have injuries resulting from our tcas maneuver request ambulance on arrival
+
+Some of the cabin crew are injured. They were serving meals during the TCAS maneuver.
+some of the cabin crew are injured they were serving meals during the tcas maneuver
+
+Some passengers were injured because their seatbelts weren’t fastened.
+some passengers were injured because their seatbelts weren't fastened
+
+Some passengers have been scalded by hot drinks.
+some passengers have been scalded by hot drinks
+
+We have about thirty injured persons on board, four are very serious. Can you deliver this message to the medical staff that are standing by?
+we have about thirty injured persons on board four are very serious can you deliver this message to the medical staff that are standing by
+
+We overran the runway end. We are evacuating. Request emergency services.
+we overran the runway end we are evacuating request emergency services
+
+We veered off the runway. We are evacuating near the runway and rapid exit J5.
+we veered off the runway we are evacuating near the runway and rapid exit juliett five
+
+We will reach our minimum fuel if we are delayed any further.
+we will reach our minimum fuel if we are delayed any further
+
+We are declaring minimum fuel. We will have less than 30 minutes endurance by the time we get to our destination.
+we are declaring minimum fuel we will have less than three zero minutes endurance by the time we get to our destination
+
+We are declaring fuel emergency. Our endurance is 1 hour 58 minutes. We are 1 hour 30 minutes from the closest alternate airport.
+we are declaring fuel emergency our endurance is one hour five eight minutes we are one hour three zero minutes from the closest alternate airport
+
+We are declaring fuel emergency. Request priority landing Runway 03R.
+we are declaring fuel emergency request priority landing runway zero three romeo
+
+We have been intercepted by a military aircraft. It is rocking its wings to indicate we should follow.
+we have been intercepted by a military aircraft it is rocking its wings to indicate we should follow
+
+I’m trying to identify the type and nationality of the military aircraft. So far, no response on121.5.
+i'm trying to identify the type and nationality of the military aircraft so far no response on one two one decimal five
+
+The military aircraft is commanding us to land at the airfield below.
+the military aircraft is commanding us to land at the airfield below
+
+The military aircraft has made an abrupt maneuver indicating we may continue on this heading.
+the military aircraft has made an abrupt maneuver indicating we may continue on this heading
+
+We are being escorted towards the national boundary by two military aircraft.
+we are being escorted towards the national boundary by two military aircraft
+
+We are heading 085. This heading allows us to quickly exit the prohibited airspace.
+we are heading zero eight five this heading allows us to quickly exit the prohibited airspace
+
+If we continue to make orbits we will exceed our duty time limit by the time we land.
+if we continue to make orbits we will exceed our duty time limit by the time we land
+
+A crew member is incapacitated. Request diversion and medical assistance.
+alpha crew member is incapacitated request diversion and medical assistance
+
+They have revived the unconscious passenger by CPR procedure. It looks like he’ll be fine.Request to cancel the diversion.
+they have revived the unconscious passenger by charlie papa romeo procedure it looks like he'll be fine request to cancel the diversion
+
+Confirm we are being vectored to fly overhead the airport for right downwind.
+confirm we are being vectored to fly overhead the airport for right downwind
+
+Confirm we have enough separation from preceding aircraft.
+confirm we have enough separation from preceding aircraft
+
+Unable to expedite climb due performance.
+unable to expedite climb due performance
+
+Negative contact due visibility.
+negative contact due visibility
+
+Unable, we are in IMC.
+unable we are in imc
+
+Unable, we are only authorized during daytime VMC.
+unable we are only authorized during daytime vmc
+
+Unable noise abatement due company policy.
+unable noise abatement due company policy
+
+Did the previous controller tell you about our problem during radar handoff?
+did the previous controller tell you about our problem during radar handoff
+
+Is there a frequency change at this compulsory reporting point?
+is there a frequency change at this compulsory reporting point
+
+Unable speed 180 knots. We need to maintain a good speed in clean configuration due icing.
+unable speed one eight zero knots we need to maintain a good speed in clean configuration due icing
+
+Unable to reduce speed below mach decimal 74. You can vector us if you’d like.
+unable to reduce speed below mach decimal seven four you can vector us if you'd like
+
+Request runway change for departure due high crosswind.
+request runway change for departure due high crosswind
+
+Request delay the approach due tail wind beyond limits.
+request delay the approach due tail wind beyond limits
+
+Request holding instructions due weather near the runway threshold.
+request holding instructions due weather near the runway threshold
+
+Unable, an immediate right turn might not give us enough terrain clearance. Our turn radius is 4 miles at this speed.
+unable an immediate right turn might not give us enough terrain clearance our turn radius is four miles at this speed
+
+Sorry, there was a problem with my audio equipment. How do you read me now?
+sorry there was a problem with my audio equipment how do you read me now
+
+We had to overshoot because of wake turbulence.
+we had to overshoot because of wake turbulence
+
+Not ready for immediate takeoff due possible wake turbulence from departing heavy aircraft.
+not ready for immediate takeoff due possible wake turbulence from departing heavy aircraft
+
+Unable CAT II approach due crew qualification.
+unable charlie alpha tango india india approach due crew qualification
+
+Transmission blocked, say again.
+transmission blocked say again
+
+Standby, high pilot workload.
+standby high pilot workload
+
+Are you banning us from entry because of our airline or our aircraft type?
+are you banning us from entry because of our airline or our aircraft type
+
+Our aircraft has the required certification and is approved by your Civil Aviation Authority for scheduled flight.
+our aircraft has the required certification and is approved by your civil aviation authority for scheduled flight
+
+We had to go around due to unstable approach.
+we had to go around due to unstable approach
+

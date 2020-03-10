@@ -1,0 +1,1 @@
+GPS unreliable, terminating ADS-B transmissions.

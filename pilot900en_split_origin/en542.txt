@@ -1,0 +1,1 @@
+We have lost electrical power to some of the flight control actuators. Request delay our descent to perform checklist.

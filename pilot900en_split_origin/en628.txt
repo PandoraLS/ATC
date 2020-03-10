@@ -1,0 +1,1 @@
+We no longer have airspeed and altitude on our primary displays.

@@ -1,0 +1,1 @@
+We have an avionics ventilation problem. The skin heat-exchangers and blower fan have failed.

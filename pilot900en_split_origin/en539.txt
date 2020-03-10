@@ -1,0 +1,1 @@
+Request vectors for long final. We are controlling the airplane with mechanical backup.

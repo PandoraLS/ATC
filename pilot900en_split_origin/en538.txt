@@ -1,0 +1,1 @@
+Request immediate climb above the minimum safe altitude to perform the checklist due to run-away trim condition.

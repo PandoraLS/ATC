@@ -1,0 +1,1 @@
+CPDLC terminated due to failure, reverting to voice communication.
