@@ -1,0 +1,968 @@
+{
+  "1": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          500,
+          14000
+        ]
+      }
+    }
+  },
+  "2": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          100,
+          8000
+        ]
+      }
+    }
+  },
+  "3": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "QNH",
+          "QNE"
+        ]
+      }
+    }
+  },
+  "4": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "CLIMB",
+          "DESCEND",
+          "DESCENT"
+        ]
+      }
+    }
+  },
+  "5": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "AT",
+          "BY"
+        ]
+      }
+    }
+  },
+  "6": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          23
+        ]
+      }
+    }
+  },
+  "7": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          59
+        ]
+      }
+    }
+  },
+  "8": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "LEAVING",
+          "REACHING",
+          "PASSING"
+        ]
+      }
+    }
+  },
+  "9": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          30
+        ]
+      }
+    }
+  },
+  "10": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "GREATER",
+          "LESS"
+        ]
+      }
+    }
+  },
+  "11": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "ACCELERATION",
+          "DECELERATION"
+        ]
+      }
+    }
+  },
+  "12": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "ABOVE",
+          "BELOW"
+        ]
+      }
+    }
+  },
+  "13": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "CBJ",
+          "CCA",
+          "CES",
+          "CSN",
+          "OKA",
+          "CBG",
+          "CQH",
+          "CDC",
+          "UEA",
+          "CQN",
+          "EPA",
+          "CGZ",
+          "CHB",
+          "CCD",
+          "FZA",
+          "CGH",
+          "HXA",
+          "HTU",
+          "CYH",
+          "DKH",
+          "JYH",
+          "CJX",
+          "KNA",
+          "CUA",
+          "SNG",
+          "CNM",
+          "HTK",
+          "QDA",
+          "RLH",
+          "CSS",
+          "CUH",
+          "XTH",
+          "TBA",
+          "JOY",
+          "LKE",
+          "HYT",
+          "AYE",
+          "KPA",
+          "SHQ",
+          "YZR",
+          "DER",
+          "GDC",
+          "CAO",
+          "AHK",
+          "AMU",
+          "CDG",
+          "CHH",
+          "CKK",
+          "CXA",
+          "CSC",
+          "CPA",
+          "CSH",
+          "GCR",
+          "CYZ",
+          "HBH",
+          "HAD",
+          "CSZ",
+          "CGN",
+          "LHA",
+          "BJN",
+          "NMG",
+          "HKE",
+          "UIA",
+          "EVA",
+          "CAL",
+          "TNA",
+          "JAE",
+          "KAC",
+          "KAL",
+          "KLM",
+          "KOR",
+          "KZR",
+          "MAS",
+          "MGL",
+          "MPH",
+          "MSR",
+          "MXA",
+          "NCA",
+          "OAL",
+          "OEA",
+          "PAA",
+          "PAC",
+          "PAL",
+          "PIA",
+          "QFA",
+          "QTR",
+          "RBA",
+          "RNA",
+          "SAA",
+          "SAS",
+          "SBI",
+          "SIA",
+          "SLK",
+          "SVA",
+          "SWR",
+          "TAY",
+          "THA",
+          "THY",
+          "UAE",
+          "UAL",
+          "UKR",
+          "UPS",
+          "UZB",
+          "VIR",
+          "AAL",
+          "AAR",
+          "ABW",
+          "ACA",
+          "AEA",
+          "AFG",
+          "AFL",
+          "AFR",
+          "AIC",
+          "ALK",
+          "ANA",
+          "ANZ",
+          "AUA",
+          "AZA",
+          "BAW",
+          "BKP",
+          "CEB",
+          "CLX",
+          "DAL",
+          "DLH",
+          "EIA",
+          "ELY",
+          "FDX",
+          "FIN",
+          "GEC",
+          "GFA",
+          "GIA",
+          "HVN",
+          "IAW",
+          "IRA",
+          "JAL"
+        ]
+      }
+    }
+  },
+  "14": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "LEVEL",
+          "FLIGHT LEVEL",
+          "ALTITUDE"
+        ]
+      }
+    }
+  },
+  "15": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "CONTROL",
+          "APPROACH",
+          "ARRIVAL",
+          "DEPARTURE",
+          "TOWER",
+          "GROUND",
+          "DELIVERY",
+          "INFORMATION",
+          "APRON",
+          "DISPATCH"
+        ]
+      }
+    }
+  },
+  "16": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          " "
+        ]
+      }
+    }
+  },
+  "17": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "REQUEST START UP",
+          "INFORMATION",
+          "START UP APPROVED",
+          "START UP AT",
+          "EXPECT START UP AT",
+          "START UP AT OWN DISCRETION",
+          "EXPECT DEPARTURE",
+          "ARE YOU READY FOR START UP",
+          "REQUEST PUSH BACK",
+          "PUSH BACK APPROVED",
+          "STAND BY",
+          "PUSH BACK AT OWN DISCRETION",
+          "EXPECT MINUTES DELAY DUE",
+          "REQUEST TOW FROM TO",
+          "HOLD POSITION",
+          "STAND BY",
+          "TOW APPROVED VIA",
+          "REQUEST DEPARTURE INFORMATION",
+          "REQUEST TIME CHECK",
+          "TIME",
+          "RUNWAY"
+        ]
+      }
+    }
+  },
+  "18": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "CLEARED FOR TAKE-OFF",
+          "RUNWAY CLEARED FOR TAKE-OFF",
+          "TAKE OFF IMMEDIATELY OR VACATE RUNWAY",
+          "TAKE OFF IMMEDIATELY OR HOLD SHORT OF RUNWAY",
+          "HOLD POSITION",
+          "HOLDING",
+          "STOP IMMEDIATELY",
+          "STOPPING",
+          "CLEARED FOR TAKE-OFF FROM",
+          "REQUEST DEPARTURE INSTRUCTIONS",
+          "AFTER DEPARTURE TURN RIGHT",
+          "CLEARS",
+          "CLEARED TO",
+          "RECLEARED",
+          "RECLEARED TO",
+          "ENTER CONTROLLED AIRSPACE AT",
+          "LEAVE CONTROLLED AIRSPACE AT",
+          "EXPECT DEPARTURE",
+          "JOIN AT AT",
+          "EXPECT CLEARANCE AT"
+        ]
+      }
+    }
+  },
+  "19": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          5000,
+          10000
+        ]
+      }
+    }
+  },
+  "20": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "SHANGHAI",
+          "GUANGZHOU",
+          "BEIJING",
+          "SHENZHEN",
+          "CHENGDU",
+          "CHONGQING",
+          "URUMQI",
+          "TAIBEI",
+          "SHANGHAI",
+          "KUNMING",
+          "QINGDAO",
+          "SHENYANG",
+          "WUHAN",
+          "HARBIN",
+          "DALIAN",
+          "XIAN",
+          "TIANJIN",
+          "HANGZHOU",
+          "CHANGSHA",
+          "ZHENGZHOU",
+          "XIAMEN",
+          "JINAN",
+          "BEIJING",
+          "HAIKOU",
+          "GUIYANG",
+          "NANJING",
+          "WENZHOU",
+          "CHANGCHUN",
+          "NINGBO",
+          "NANCHANG",
+          "GAOXIONG",
+          "HEFEI",
+          "SANYA",
+          "NANNING",
+          "YANTAI",
+          "SHIJIAZHUANG",
+          "YINCHUAN",
+          "LANZHOU",
+          "XINING",
+          "FUZHOU",
+          "GUILIN",
+          "LHASA",
+          "XUZHOU",
+          "TAIYUAN",
+          "ZHANJIANG",
+          "WEIHAI",
+          "JIAMUSI",
+          "HOHHOT",
+          "TAIZHONG",
+          "WUXI",
+          "YIWU",
+          "ZHUHAI",
+          "JINGHONG",
+          "LIUZHOU",
+          "KASHGAR",
+          "SUZHOU",
+          "YICHANG",
+          "YIBIN",
+          "LINYI",
+          "ORDOS",
+          "BAOTOU",
+          "LIJIANG",
+          "MUDANJIANG",
+          "AKSU",
+          "QUANZHOU",
+          "DANDONG",
+          "JINZHOU",
+          "YANJI",
+          "LUOYANG",
+          "WEIFANG",
+          "LIANYUNGANG",
+          "CHANGZHOU",
+          "JILIN",
+          "HAILAR",
+          "QINHUANGDAO",
+          "JIEYANG",
+          "QIQIHAER",
+          "BEIHAI",
+          "XIANGYANG",
+          "HAMI",
+          "WUYISHAN",
+          "ZHANGJIAJIE",
+          "MIANYANG",
+          "DATONG",
+          "JIAYUGUAN",
+          "NANTONG",
+          "TAIZHOU",
+          "GANZHOU",
+          "JIUJIANG",
+          "NANYANG",
+          "TAINAN",
+          "ZUNYI",
+          "YINING",
+          "CHANGDE",
+          "YANCHENG",
+          "KORLA",
+          "YULIN",
+          "XICHANG",
+          "ULANHOT",
+          "QUZHOU",
+          "LUZHOU",
+          "DALIXIAGUAN",
+          "HUANGSHAN",
+          "NANCHONG",
+          "JINGDEZHEN",
+          "GOLMUD",
+          "ENSHI",
+          "FUYANG",
+          "TONGLIAO",
+          "JINMEN",
+          "HUAIHUA",
+          "SHASHI",
+          "WUHAN",
+          "HENGYANG",
+          "CHIFENG",
+          "DAZHOU",
+          "KARAMAY",
+          "HANZHONG",
+          "DUNHUANG",
+          "JINING",
+          "ZHOUSHAN",
+          "CHONGQING",
+          "PENGHU",
+          "ANQING",
+          "XILINHOT",
+          "CHANGZHI",
+          "HUALIAN",
+          "KUQA",
+          "HETIAN",
+          "HEIHE",
+          "TONGHUA",
+          "TAIDONG",
+          "MANGSHI",
+          "JIAN",
+          "ANYANG",
+          "TONGREN",
+          "QINGYANG",
+          "BARDUFOSS",
+          "ANKANG",
+          "LINCANG",
+          "WENSHAN",
+          "ZHAOTONG",
+          "GUANGHAN",
+          "ANSHAN",
+          "MEIXIAN",
+          "QIEMO",
+          "PUER",
+          "JIUZHAIGOU",
+          "DIQING",
+          "SHAOGUAN",
+          "YANAN",
+          "DALIAN",
+          "GREENISLAND",
+          "WUZHOU",
+          "QIMEI",
+          "CHAOYANG",
+          "CHAMDO",
+          "ALTAY",
+          "BAOSHAN",
+          "HULUDAO",
+          "JIUQUAN",
+          "NALATI",
+          "HEIHE",
+          "BENGBU",
+          "FUYUN",
+          "JIAYI",
+          "TACHENG",
+          "Lijiang(LijiangAirport)",
+          "TAICHUNG",
+          "HELENA(HelenaRegionalAirport)",
+          "TAIDONG",
+          "TAIBEI"
+        ]
+      }
+    }
+  },
+  "21": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "PASSING",
+          "LEAVING",
+          "REACHING"
+        ]
+      }
+    }
+  },
+  "22": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "UP",
+          "DOWN",
+          "LEFT",
+          "RIGHT"
+        ]
+      }
+    }
+  },
+  "23": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "A320",
+          "A330",
+          "A380",
+          "B737",
+          "B747",
+          "B777",
+          "B787"
+        ]
+      }
+    }
+  },
+  "24": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "WAS",
+          "ESTIMATED"
+        ]
+      }
+    }
+  },
+  "25": {
+    "REPORTED #1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          500,
+          14000
+        ]
+      }
+    },
+    "LEVEL UNKNOWN #1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          " "
+        ]
+      }
+    }
+  },
+  "26": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          360
+        ]
+      }
+    }
+  },
+  "27": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          100,
+          500
+        ]
+      }
+    }
+  },
+  "28": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          500
+        ]
+      }
+    }
+  },
+  "29": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "km",
+          "nmile"
+        ]
+      }
+    }
+  },
+  "30": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "RUNWAY VISUAL RANGE",
+          "RVR"
+        ]
+      }
+    }
+  },
+  "31": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          20
+        ]
+      }
+    },
+    "#1##2#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          20
+        ]
+      },
+      "2": {
+        "type": "str",
+        "range": [
+          "L",
+          "R",
+          "C"
+        ]
+      }
+    }
+  },
+  "32": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "AVAILABLE",
+          "REPORTED"
+        ]
+      }
+    }
+  },
+  "33": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "FEW",
+          "SCT",
+          "BKN",
+          "OVC"
+        ]
+      }
+    }
+  },
+  "34": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          40
+        ]
+      }
+    },
+    "MINUS #1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          1,
+          40
+        ]
+      }
+    }
+  },
+  "35": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          40
+        ]
+      }
+    },
+    "MINUS #1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          1,
+          40
+        ]
+      }
+    }
+  },
+  "36": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  },
+  "37": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "ICING",
+          "TURBULENCE"
+        ]
+      }
+    }
+  },
+  "38": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          100,
+          999
+        ]
+      }
+    }
+  },
+  "39": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "LEFT",
+          "RIGHT",
+          "BOTH SIDES"
+        ]
+      }
+    }
+  },
+  "40": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "PROGRESS",
+          "OBSTRUCTION"
+        ]
+      }
+    }
+  },
+  "41": {
+    "#1#": {
+      "1": {
+        "type": "num",
+        "range": [
+          0,
+          300
+        ]
+      }
+    }
+  },
+  "42": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "GOOD",
+          "MEDIUM TO GOOD",
+          "MEDIUM",
+          "MEDIUM TO POOR",
+          "POOR",
+          "UNRELIABLE"
+        ]
+      }
+    }
+  },
+  "43": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "VOR",
+          "DME"
+        ]
+      }
+    }
+  },
+  "44": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "RUNWAY",
+          "TAXIWAY"
+        ]
+      }
+    }
+  },
+  "45": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "WET",
+          "DAMP",
+          "WATER PATCHES",
+          "FLOODED",
+          "SNOW REMOVED",
+          "TREATED",
+          "COVERED WITH PATCHES OF DRY SNOW",
+          "WET SNOW",
+          "COMPACTED SNOW",
+          "SLUSH",
+          "FROZEN SLUSH",
+          "ICE",
+          "ICE UNDERNEATH",
+          "ICE AND SNOW",
+          "SNOW DRIFT",
+          "FROZEN RUTS AND RIDGES"
+        ]
+      }
+    }
+  },
+  "46": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "SPECIFYVISUAL",
+          "NON-SPECIFYVISUAL"
+        ]
+      }
+    }
+  },
+  "47": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "MLS",
+          "ILS"
+        ]
+      }
+    }
+  },
+  "48": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "GPS",
+          "WAAS"
+        ]
+      }
+    }
+  },
+  "49": {
+    "#1#": {
+      "1": {
+        "type": "str",
+        "range": [
+          "VASI",
+          "PAPI",
+          "PVASI",
+          "T-VASI"
+        ]
+      }
+    }
+  }
+}

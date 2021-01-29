@@ -1,0 +1,1194 @@
+{
+  "#1# METERS, #2# #3#": {
+    "count": 20,
+    "index": {
+      "1": [
+        1
+      ],
+      "2": [
+        3
+      ],
+      "3": [
+        2
+      ]
+    }
+  },
+  "#1# TO #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        1
+      ]
+    }
+  },
+  "#1# TO AND MAINTAIN #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        1
+      ]
+    }
+  },
+  "#1# TO REACH #2# #3# #4#:#5#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        1
+      ],
+      "3": [
+        5
+      ],
+      "4": [
+        6
+      ],
+      "5": [
+        7
+      ]
+    }
+  },
+  "REPORT #1# #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        8
+      ],
+      "2": [
+        1
+      ]
+    }
+  },
+  "#1# AT #2# METERS PER SECOND": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        9
+      ]
+    }
+  },
+  "#1# AT #2# METERS PER SECOND #3#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        9
+      ],
+      "3": [
+        10
+      ]
+    }
+  },
+  "REPORT STARTING #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        11
+      ]
+    }
+  },
+  "MAINTAIN AT LEAST #1# METERS #2# #3#": {
+    "count": 20,
+    "index": {
+      "1": [
+        1
+      ],
+      "2": [
+        12
+      ],
+      "3": [
+        13
+      ]
+    }
+  },
+  "REQUEST #1# CHANGE FROM #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        14
+      ],
+      "2": [
+        15
+      ]
+    }
+  },
+  "REQUEST #1# CHANGE FROM #2# #3#:#4#": {
+    "count": 20,
+    "index": {
+      "1": [
+        14
+      ],
+      "2": [
+        15
+      ],
+      "3": [
+        6
+      ],
+      "4": [
+        7
+      ]
+    }
+  },
+  "STOP #1# AT #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        1
+      ]
+    }
+  },
+  "CONTINUE #1# TO #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        1
+      ]
+    }
+  },
+  "EXPEDITE #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ]
+    }
+  },
+  "EXPEDITE #1# UNTIL PASSING #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        1
+      ]
+    }
+  },
+  "WHEN READY, #1# TO #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        1
+      ]
+    }
+  },
+  "EXPECT #1# AT #2#:#3#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        6
+      ],
+      "3": [
+        7
+      ]
+    }
+  },
+  "REQUEST DESCENT AT #1#:#2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        6
+      ],
+      "2": [
+        7
+      ]
+    }
+  },
+  "IMMEDIATELY #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "AFTER PASSING #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "AT #1#:#2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        6
+      ],
+      "2": [
+        7
+      ]
+    }
+  },
+  "WHEN READY #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        17
+      ]
+    }
+  },
+  "MAINTAIN OWN SEPARATION AND VMC #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "MAINTAIN OWN SEPARATION AND VMC FROM #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        1
+      ]
+    }
+  },
+  "MAINTAIN OWN SEPARATION AND VMC TO #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        1
+      ]
+    }
+  },
+  "MAINTAIN OWN SEPARATION AND VMC #1# #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        12
+      ],
+      "2": [
+        1
+      ]
+    }
+  },
+  "IF UNABLE, #1# AND ADVISE": {
+    "count": 20,
+    "index": {
+      "1": [
+        17
+      ]
+    }
+  },
+  "CAN YOU ACCEPT FLIGHT LEVEL #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        1
+      ]
+    }
+  },
+  "UNABLE #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "TCAS #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ]
+    }
+  },
+  "RETURNING TO #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        18
+      ]
+    }
+  },
+  "TCAS #1#, RETURNING TO #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        18
+      ]
+    }
+  },
+  "TCAS #1# COMPLETED, #2# RESUMED": {
+    "count": 20,
+    "index": {
+      "1": [
+        4
+      ],
+      "2": [
+        18
+      ]
+    }
+  },
+  "UNABLE, TCAS RESOLUTION ADVISORY #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "CONTACT #1# #2#KHz": {
+    "count": 20,
+    "index": {
+      "1": [
+        15
+      ],
+      "2": [
+        19
+      ]
+    }
+  },
+  "CONTACT #1# #2#KHz NOW": {
+    "count": 20,
+    "index": {
+      "1": [
+        15
+      ],
+      "2": [
+        19
+      ]
+    }
+  },
+  "AT #1#:#2#, CONTACT #3# #4#KHz": {
+    "count": 20,
+    "index": {
+      "1": [
+        6
+      ],
+      "2": [
+        7
+      ],
+      "3": [
+        15
+      ],
+      "4": [
+        19
+      ]
+    }
+  },
+  "OVER #1#, CONTACT #2# #3#KHz": {
+    "count": 20,
+    "index": {
+      "1": [
+        6
+      ],
+      "2": [
+        15
+      ],
+      "3": [
+        19
+      ]
+    }
+  },
+  "WHEN #1#, CONTACT #2# #3#KHz": {
+    "count": 20,
+    "index": {
+      "1": [
+        21
+      ],
+      "2": [
+        15
+      ],
+      "3": [
+        19
+      ]
+    }
+  },
+  "IF NOT CONTACT #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        17
+      ]
+    }
+  },
+  "STAND BY #1#KHz FOR #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        19
+      ],
+      "2": [
+        15
+      ]
+    }
+  },
+  "REQUEST CHANGE TO #1#KHz": {
+    "count": 20,
+    "index": {
+      "1": [
+        19
+      ]
+    }
+  },
+  "FREQUENCY CHANGE APPROVED #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "MONITOR #1# #2#KHz": {
+    "count": 20,
+    "index": {
+      "1": [
+        15
+      ],
+      "2": [
+        19
+      ]
+    }
+  },
+  "MONITORING #1#KHz": {
+    "count": 20,
+    "index": {
+      "1": [
+        19
+      ]
+    }
+  },
+  "WHEN READY CONTACT #1# #2#KHz": {
+    "count": 20,
+    "index": {
+      "1": [
+        15
+      ],
+      "2": [
+        19
+      ]
+    }
+  },
+  "REMAIN THIS FREQUENCY #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "CHANGE YOUR CALLSIGN TO #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        13
+      ]
+    }
+  },
+  "CHANGE YOUR CALLSIGN TO #1# UNTILFURTHER ADVISED": {
+    "count": 20,
+    "index": {
+      "1": [
+        13
+      ]
+    }
+  },
+  "REVERT TO FLIGHT PLAN CALL SIGN #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        13
+      ]
+    }
+  },
+  "REVERT TO FLIGHT PLAN CALL SIGN #1# AT #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        13
+      ],
+      "2": [
+        16
+      ]
+    }
+  },
+  "TRAFFIC #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "NO REPORTEDTRAFFIC #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "LOOKING OUT #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "TRAFFIC IN SIGHT #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "NEGATIVE CONTACT #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "TRAFFIC #1# BOUND, #2#, #3# ESTIMATED AT #4#:#5#": {
+    "count": 20,
+    "index": {
+      "1": [
+        22
+      ],
+      "2": [
+        23
+      ],
+      "3": [
+        1
+      ],
+      "4": [
+        6
+      ],
+      "5": [
+        7
+      ]
+    }
+  },
+  "ADDITIONAL TRAFFIC #1# BOUND, #2#, #3# ESTIMATED AT #4#:#5#": {
+    "count": 20,
+    "index": {
+      "1": [
+        22
+      ],
+      "2": [
+        23
+      ],
+      "3": [
+        1
+      ],
+      "4": [
+        6
+      ],
+      "5": [
+        7
+      ]
+    }
+  },
+  "TRAFFIC IS UNMANNED FREE BALLOON(S) #1# OVER #2# AT #31#:#32#, #4# MOVING #5#": {
+    "count": 20,
+    "index": {
+      "1": [
+        24
+      ],
+      "2": [
+        20
+      ],
+      "31": [
+        6
+      ],
+      "32": [
+        7
+      ],
+      "4": [
+        25
+      ],
+      "5": [
+        22
+      ]
+    }
+  },
+  "WIND #1# DEGREES #2# METERS PER SECOND": {
+    "count": 20,
+    "index": {
+      "1": [
+        26
+      ],
+      "2": [
+        9
+      ]
+    }
+  },
+  "SURFACE WIND #1# DEGREES #2# METERS PER SECOND": {
+    "count": 20,
+    "index": {
+      "1": [
+        26
+      ],
+      "2": [
+        9
+      ]
+    }
+  },
+  "WIND AT #1# #2# DEGREES #3# KILOMETERS PER HOUR": {
+    "count": 20,
+    "index": {
+      "1": [
+        1
+      ],
+      "2": [
+        26
+      ],
+      "3": [
+        27
+      ]
+    }
+  },
+  "VISIBILITY #1# #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        28
+      ],
+      "2": [
+        29
+      ]
+    }
+  },
+  "VISIBILITY #1# #2# #3#": {
+    "count": 20,
+    "index": {
+      "1": [
+        28
+      ],
+      "2": [
+        29
+      ],
+      "3": [
+        22
+      ]
+    }
+  },
+  "#1# #2# #3#": {
+    "count": 20,
+    "index": {
+      "1": [
+        30
+      ],
+      "2": [
+        28
+      ],
+      "3": [
+        29
+      ]
+    }
+  },
+  "#1# RUNWAY #2# #3# #4#": {
+    "count": 20,
+    "index": {
+      "1": [
+        30
+      ],
+      "2": [
+        31
+      ],
+      "3": [
+        28
+      ],
+      "4": [
+        29
+      ]
+    }
+  },
+  "#1# RUNWAY #2# NOT #3#": {
+    "count": 20,
+    "index": {
+      "1": [
+        30
+      ],
+      "2": [
+        31
+      ],
+      "3": [
+        32
+      ]
+    }
+  },
+  "#1# TOUCH DOWN #2# #3#, MIDPOINT #4# #5#, STOP END #6# #7#": {
+    "count": 20,
+    "index": {
+      "1": [
+        30
+      ],
+      "2": [
+        28
+      ],
+      "3": [
+        29
+      ],
+      "4": [
+        28
+      ],
+      "5": [
+        29
+      ],
+      "6": [
+        28
+      ],
+      "7": [
+        29
+      ]
+    }
+  },
+  "#1# RUNWAY #11# TOUCH DOWN #2# #3#, MIDPOINT #4# #5#, STOP END #6# #7#": {
+    "count": 20,
+    "index": {
+      "1": [
+        30
+      ],
+      "11": [
+        31
+      ],
+      "2": [
+        28
+      ],
+      "3": [
+        29
+      ],
+      "4": [
+        28
+      ],
+      "5": [
+        29
+      ],
+      "6": [
+        28
+      ],
+      "7": [
+        29
+      ]
+    }
+  },
+  "#1# TOUCH DOWN #2# #3#, MIDPOINT NOT AVAILABLE, STOP END #6# #7#": {
+    "count": 20,
+    "index": {
+      "1": [
+        30
+      ],
+      "2": [
+        28
+      ],
+      "3": [
+        29
+      ],
+      "6": [
+        28
+      ],
+      "7": [
+        29
+      ]
+    }
+  },
+  "#1# #11# TOUCH DOWN #2# #3#, MIDPOINT NOT AVAILABLE, STOP END #6# #7#": {
+    "count": 20,
+    "index": {
+      "1": [
+        30
+      ],
+      "11": [
+        31
+      ],
+      "2": [
+        28
+      ],
+      "3": [
+        29
+      ],
+      "6": [
+        28
+      ],
+      "7": [
+        29
+      ]
+    }
+  },
+  "PRESENT WEATHER #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "CLOUD #1# AMOUNT, AND HEIGHT OF BASE #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        33
+      ],
+      "2": [
+        1
+      ]
+    }
+  },
+  "SKY CLEAR #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "CAVOK #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "TEMPERATURE #1#, DEW POINT #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        34
+      ],
+      "2": [
+        35
+      ]
+    }
+  },
+  "#1# #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        3
+      ],
+      "2": [
+        2
+      ]
+    }
+  },
+  "#1# REPORTED #2# #3# #4#:#5#": {
+    "count": 20,
+    "index": {
+      "1": [
+        36
+      ],
+      "2": [
+        37
+      ],
+      "3": [
+        20
+      ],
+      "4": [
+        6
+      ],
+      "5": [
+        7
+      ]
+    }
+  },
+  "#1# REPORTED #2# IN CLOUD #3# #4#:#5#": {
+    "count": 20,
+    "index": {
+      "1": [
+        36
+      ],
+      "2": [
+        37
+      ],
+      "3": [
+        20
+      ],
+      "4": [
+        6
+      ],
+      "5": [
+        7
+      ]
+    }
+  },
+  "REPORT FLIGHT CONDITIONS #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "NEXT REPORT AT #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "OMIT POSITION REPORT #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "RESUME POSITION REPORTING #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "REPORT PASSING #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "REPORT #1# FROM PASSING DME": {
+    "count": 20,
+    "index": {
+      "1": [
+        28
+      ]
+    }
+  },
+  "REPORT PASSING #1# RADIAL VOR": {
+    "count": 20,
+    "index": {
+      "1": [
+        38
+      ]
+    }
+  },
+  "REPORT DISTANCE FROM #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "REPORT DISTANCE FROM DME #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "RUNWAY SURFACE CONDITION RUNWAY #1# #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        31
+      ],
+      "2": [
+        16
+      ]
+    }
+  },
+  "RUNWAY SURFACE CONDITION RUNWAY #1# NOT CURRENT": {
+    "count": 20,
+    "index": {
+      "1": [
+        31
+      ]
+    }
+  },
+  "LANDING SURFACE #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "CAUTION #1# OF RUNWAY #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        39
+      ],
+      "2": [
+        31
+      ]
+    }
+  },
+  "CAUTION WORK IN #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        40
+      ]
+    }
+  },
+  "RUNWAY REPORT AT #1#:#2# RUNWAY #3#, SNOW UP TO #4# MILLIMETERS, BRAKING ACTION #5#": {
+    "count": 20,
+    "index": {
+      "1": [
+        6
+      ],
+      "2": [
+        7
+      ],
+      "3": [
+        31
+      ],
+      "4": [
+        41
+      ],
+      "5": [
+        42
+      ]
+    }
+  },
+  "BRAKING ACTION REPORTED BY #1# AT #2#:#3# #4#": {
+    "count": 20,
+    "index": {
+      "1": [
+        23
+      ],
+      "2": [
+        6
+      ],
+      "3": [
+        7
+      ],
+      "4": [
+        42
+      ]
+    }
+  },
+  "BRAKING ACTION #1#, RUNWAY #2#, TEMPERATURE #3#, WAS AT #4#:#5#": {
+    "count": 20,
+    "index": {
+      "1": [
+        43
+      ],
+      "2": [
+        31
+      ],
+      "3": [
+        34
+      ],
+      "4": [
+        6
+      ],
+      "5": [
+        7
+      ]
+    }
+  },
+  "#1# #2# #3# ": {
+    "count": 20,
+    "index": {
+      "1": [
+        44
+      ],
+      "2": [
+        31
+      ],
+      "3": [
+        45
+      ]
+    }
+  },
+  "TOWER OBSERVES #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "PILOT REPORT #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "#1# RUNWAY #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        46
+      ],
+      "2": [
+        31
+      ]
+    }
+  },
+  "#1# LIGHTING UNSERVICEABILITY": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "#1# CATEGORY #2#": {
+    "count": 20,
+    "index": {
+      "1": [
+        47
+      ],
+      "2": [
+        48
+      ]
+    }
+  },
+  "TAXIWAY LIGHTING #1#": {
+    "count": 20,
+    "index": {
+      "1": [
+        16
+      ]
+    }
+  },
+  "#1# RUNWAY #2# ": {
+    "count": 20,
+    "index": {
+      "1": [
+        49
+      ],
+      "2": [
+        31
+      ]
+    }
+  }
+}
